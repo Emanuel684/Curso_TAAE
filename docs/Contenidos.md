@@ -1,4 +1,4 @@
-# Unidad 1 — Datos, incertidumbre y representación empírica
+# Unidad 1 — Datos, incertidumbre y representación empírica [Libro 1](../Unidad%201/Unidad%201.md)
 ## Idea central
 Los datos observados son una muestra de un proceso generador desconocido.
 ## Pregunta guía
