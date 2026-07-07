@@ -10,7 +10,6 @@ Los datos observados son una muestra de un proceso generador desconocido.
 - Variables aleatorias y distribuciones
 - De distribuciones empíricas a modelos probabilísticos
 
-
 # Unidad 2 — Inferencia probabilística y aprendizaje bayesiano
 ## Idea central
 Aprender consiste en actualizar probabilidades y reducir incertidumbre mediante evidencia.
@@ -18,18 +17,10 @@ Aprender consiste en actualizar probabilidades y reducir incertidumbre mediante 
 ¿Cómo cambia nuestra incertidumbre cuando observamos datos?
 
 ## Temas
-- Teorema de Bayes
-- Priors y posteriors
-- Experimento de Bayes (moneda/izquierda-derecha)
-- Distribución Beta y reducción de incertidumbre
-- Likelihood y Maximum Likelihood
-- Distribuciones paramétricas:
-    - Binomial
-    - Poisson
-    - Gaussian
-    - Naive Bayes
-- Smoothing y soporte probabilístico
-- Entropía posterior y concentración de hipótesis
+- Teorema de Bayes, Priors y posteriors
+- Experimento de Bayes (moneda/izquierda-derecha): Distribución Beta y reducción de incertidumbre
+- Likelihood y Maximum Likelihood para estimación de distribuciones paramétricas. 
+- Estimación por Naive Bayes, Smoothing y soporte probabilístico
 
 # Unidad 3 — Modelado estadístico, información y generalización
 ## Idea central

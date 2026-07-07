@@ -23,7 +23,7 @@ Vamos a mirar un conjunto de libros para repasar conceptos de pandas, de carga d
 
 ## Estadística descriptiva univariable y multivariable
 ### Estadística descriptiva univariable:  
-**Qué elementos debe contener?**  *Chat GPT:* Las principales medidas de estadística descriptiva son técnicas utilizadas para resumir y describir las características principales de un conjunto de datos. Algunas de las medidas más importantes son: 
+**Qué elementos debe contener?**  Las principales medidas de estadística descriptiva son técnicas utilizadas para resumir y describir las características principales de un conjunto de datos. Algunas de las medidas más importantes son: 
 - Medidas de Tendencia Central: 
     - Media: El promedio aritmético de un conjunto de valores. 
     - Mediana: El valor medio de un conjunto de datos cuando estos están ordenados. 
@@ -183,7 +183,7 @@ La pregunta fundamental es:
 
 La forma más sencilla de construir una distribución consiste en calcular frecuencias observadas.
 
-Supongamos el siguiente conjunto de observaciones:
+Supongamos el siguiente conjunto de observaciones, que representan el número de personas que toman al día cierto número de porciones de café:
 
 | Número de cafés | Frecuencia |
 | --------------- | ---------- |
@@ -645,7 +645,7 @@ Media: $\mu$
 
 Desviación estándar: $\sigma$
 
-###$ Función de densidad
+#### Función de densidad
 
 $$
 f(x)=

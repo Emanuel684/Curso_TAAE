@@ -154,7 +154,22 @@ Representa nuestra creencia después de observar la evidencia.
 
 Es el resultado final del proceso de aprendizaje.
 
+### Ejemplos del teorema de Bayes
+
+* Se tienen dos cajas, la primera contiene 3 bolas rojas y 2 azules mientras que la segunda contiene 2 rojas y 8 azules. Se lanza una moneda, si se obtiene cara se saca una bola de la primera caja y si se obtiene sello se saca una bola de la segunda. Si se sabe que la bola obtenida es azul, ¿cuál es la probabilidad de que provenga de la primera caja?
+* Utilizando los mismos datos del ejercicio anterior,  si se sabe que la bola obtenida es roja, ¿cuál es la probabilidad de que provenga de la segunda caja?
+* Se tienen dos cajas, la primera contiene 3 bolas rojas y 2 azules mientras que la segunda contiene 2 rojas y 8 azules. Se lanza un dado, si se obtiene 1 ó 2 se saca una bola de la primera caja y si se obtiene 3, 4, 5 ó 6 se saca una bola de la segunda. Si se sabe que la bola obtenida es azul, ¿cuál es la probabilidad de que provenga de la primera caja?
+* En cierto colegio el 12% de los alumnos utilizan IA para realizar sus trabajos escolares. Un profesor utiliza un detector de uso de IA que acierta el 90% cuando el trabajo fue hecho con IA y que falla un 5% cuando el trabajo no fue realizado con IA. Si el profesor recibe el resultado de que el trabajo fue realizado con IA, ¿cuál es la probabilidad de estar equivocado?
+* En un restaurante de comida rápida el 30% de los clientes es infantil. Se tienen dos combos a la venta, siendo el combo 1 elegido un 60% por los niños y un 20% por los adultos. Si la orden entregada es un combo 2, ¿cuál es la probabilidad de que el pedido sea para un niño?
+* La probabilidad de que haya un accidente en una fábrica que dispone de alarma es 0.1. La probabilidad de que suene esta sí se ha producido algún incidente es de 0.97 y la probabilidad de que suene si no ha sucedido ningún incidente es 0.02. En el supuesto de que haya funcionado la alarma, ¿cuál es la probabilidad de que no haya habido ningún incidente?
+* Un análisis de sangre de laboratorio tiene una eficacia del 95% para detectar una determinada enfermedad cuando, de hecho, está presente. Sin embargo, la prueba también arroja un resultado "falso positivo" para el 1% de las personas sanas analizadas. (Es decir, si se hace la prueba a una persona sana, entonces, con una probabilidad de 0.01 el resultado de la prueba implicará que tiene la enfermedad). Si el 5% de la población en realidad tiene la enfermedad, ¿cuál es la probabilidad de que una persona tiene la enfermedad dado que el resultado de la prueba es positivo?
+* En una cierta etapa de una investigación criminal, el inspector a cargo está convencido en un 60% de la culpabilidad de cierto sospechoso. Supongamos, sin embargo, que se descubre una nueva prueba que muestra que el delincuente tiene una determinada característica. Si el 20% de la población posee esta característica, ¿qué tan seguro debe estar el inspector de la culpabilidad del sospechoso ahora si resulta que el sospechoso tiene esta característica?
+* Una fábrica de clavos dispone de 2 máquinas que elaboran el 30% y 70% de los clavos que producen. El porcentaje de clavos defectuosos de cada máquina es del 2% y 3%, respectivamente. Si se selecciona al azar un clavo de la producción y este fue defectuoso, ¿cuál es la probabilidad de que haya sido fabricado por la máquina 1?
+* El 20% de los empleados de una empresa son ingenieros y otro 20% son economistas. El 75% de los ingenieros ocupan un puesto directivo y el 50% de los economistas también, mientras que los no ingenieros y los no economistas solamente el 20% ocupa un puesto directivo. ¿Cuál es la probabilidad de que un empleado directivo elegido al azar sea ingeniero?
+
 ---
+
+Mirar un libro que presenta la forma como va ganando información a partir del teorema de Bayes [Libro Bayes Embarazo](./ejemplo_bayes_embarazo.ipynb)
 
 ## Aprender como actualización de probabilidades
 
@@ -765,7 +780,7 @@ Esta función indica qué tan compatibles son distintos valores de (\theta) con 
 
 Por ejemplo:
 
-* $($\theta=0.8$)$ produce una likelihood alta.
+* $\theta=0.8$ produce una likelihood alta.
 * $\theta=0.2$ produce una likelihood muy baja.
 
 ---
@@ -865,17 +880,17 @@ Es importante notar una diferencia fundamental entre Maximum Likelihood e Infere
 
 Maximum Likelihood produce un único valor:
 
-[
+$$
 \theta=0.8
-]
+$$
 
 La inferencia bayesiana produce una distribución completa sobre los posibles valores de (\theta):
 
-[
+$$
 \theta
 \sim
 Beta(9,3)
-]
+$$
 
 Ambos enfoques utilizan los mismos datos, pero responden preguntas diferentes.
 
@@ -931,3 +946,232 @@ Mejor ajuste posible
 
 Desde esta perspectiva, aprender consiste en encontrar los parámetros que mejor explican la evidencia disponible.
 
+
+---
+
+# Clasificador Bayesiano Naive
+
+Hasta ahora hemos estudiado cómo Bayes permite estimar parámetros desconocidos y actualizar nuestras creencias a medida que obtenemos nueva evidencia.
+
+Sin embargo, en muchos problemas de aprendizaje automático el objetivo no consiste en estimar un parámetro, sino en decidir a cuál de varias categorías pertenece una nueva observación.
+
+Por ejemplo:
+
+* ¿Este correo corresponde a spam o no spam?
+* ¿La imagen contiene un gato o un perro?
+* ¿Un paciente presenta o no una determinada enfermedad?
+* ¿Un pasajero sobrevivirá o no al accidente?
+
+En todos estos casos buscamos calcular la probabilidad de una clase a partir de un conjunto de características observadas.
+
+---
+
+## El problema de la clasificación
+
+Supongamos que observamos una muestra descrita mediante varias variables:
+
+$$
+X=(x_1,x_2,\ldots,x_n)
+$$
+
+y queremos determinar a cuál clase pertenece.
+
+Por ejemplo, si deseamos clasificar un correo electrónico, algunas características podrían ser:
+
+* contiene la palabra "oferta",
+* contiene enlaces,
+* número de imágenes,
+* longitud del mensaje.
+
+Nuestro objetivo consiste en calcular:
+
+$$
+P(C_k|X)
+$$
+
+es decir, la probabilidad de que la muestra pertenezca a la clase \(C_k\) dadas las características observadas.
+
+---
+
+## Aplicando el Teorema de Bayes
+
+Utilizando el Teorema de Bayes obtenemos:
+
+$$
+P(C_k|X)
+=
+\frac{P(X|C_k)\,P(C_k)}
+{P(X)}
+$$
+
+donde:
+
+* \(P(C_k)\) representa la probabilidad *a priori* de cada clase.
+* \(P(X|C_k)\) mide qué tan compatibles son las características observadas con dicha clase.
+* \(P(X)\) actúa como constante de normalización.
+
+Al comparar varias clases, el término \(P(X)\) es el mismo para todas ellas, por lo que basta con evaluar:
+
+$$
+P(X|C_k)\,P(C_k)
+$$
+
+y seleccionar la clase que produzca el mayor valor.
+
+---
+
+## El supuesto "naive"
+
+El principal inconveniente aparece al calcular la probabilidad conjunta:
+
+$$
+P(x_1,x_2,\ldots,x_n|C_k)
+$$
+
+Cuando el número de variables aumenta, estimar esta distribución requiere una enorme cantidad de datos.
+
+El clasificador **Naive Bayes** propone entonces una simplificación muy importante:
+
+> Suponer que todas las variables son condicionalmente independientes una vez conocida la clase.
+
+Bajo esta hipótesis,
+
+$$
+P(X|C_k)
+=
+\prod_{i=1}^{n}
+P(x_i|C_k)
+$$
+
+Esta es precisamente la razón del nombre *naive* ("ingenuo"): se asume una independencia que, en muchos problemas reales, no es completamente cierta.
+
+Sorprendentemente, aun cuando esta hipótesis no se cumple de manera exacta, el clasificador suele ofrecer resultados muy competitivos.
+
+---
+
+## Regla de decisión
+
+Finalmente, la clasificación consiste en elegir la clase cuya probabilidad posterior sea mayor:
+
+$$
+\hat C
+=
+\arg\max_{C_k}
+P(C_k)
+\prod_i
+P(x_i|C_k)
+$$
+
+En otras palabras, se selecciona la clase que mejor explica simultáneamente todas las características observadas.
+
+---
+
+## Relación con el aprendizaje bayesiano
+
+Aunque Naive Bayes utiliza el mismo Teorema de Bayes que hemos estudiado anteriormente, responde a una pregunta diferente.
+
+En la inferencia bayesiana estimábamos parámetros desconocidos de un modelo probabilístico.
+
+En Naive Bayes suponemos que esos modelos ya han sido aprendidos y los utilizamos para decidir cuál es la clase más probable de una nueva observación.
+
+Podemos resumir el proceso de la siguiente manera:
+
+```text
+Datos de entrenamiento
+          ↓
+Estimación de probabilidades
+          ↓
+Modelo probabilístico
+          ↓
+Nueva observación
+          ↓
+Aplicación del Teorema de Bayes
+          ↓
+Clase más probable
+```
+
+De esta forma, Naive Bayes constituye uno de los clasificadores probabilísticos más sencillos, rápidos y utilizados, especialmente cuando el número de variables es elevado.
+
+---
+
+# Smoothing y soporte probabilístico
+
+Existe, sin embargo, un problema práctico que aparece con frecuencia al construir un clasificador Naive Bayes.
+
+Supongamos que durante el entrenamiento nunca observamos una determinada característica dentro de una clase.
+
+Por ejemplo, imaginemos que en todos los correos clasificados como **spam** nunca apareció la palabra **universidad**.
+
+La probabilidad estimada sería entonces:
+
+$$
+P(\text{universidad}|\text{spam})=0
+$$
+
+Como Naive Bayes multiplica todas las probabilidades,
+
+$$
+P(X|C_k)
+=
+\prod_i P(x_i|C_k),
+$$
+
+basta con que uno de los factores sea cero para que toda la probabilidad de esa clase también sea cero.
+
+En consecuencia, una única característica no observada podría descartar completamente una clase, aun cuando toda la evidencia restante apunte hacia ella.
+
+---
+
+## Suavizado (Smoothing)
+
+Para evitar este problema se emplea una técnica conocida como **suavizado** (*smoothing*).
+
+La idea consiste en asumir que una probabilidad nunca debe ser exactamente cero únicamente porque no haya aparecido en la muestra de entrenamiento.
+
+La estrategia más utilizada es el **suavizado de Laplace**, que añade una pequeña cantidad ficticia de evidencia a cada posible resultado.
+
+En lugar de estimar
+
+$$
+P(x_i|C_k)
+=
+\frac{n_i}{N},
+$$
+
+se utiliza
+
+$$
+P(x_i|C_k)
+=
+\frac{n_i+1}{N+K},
+$$
+
+donde:
+
+* \(n_i\) es el número de observaciones de esa característica.
+* \(N\) es el número total de ejemplos pertenecientes a la clase.
+* \(K\) representa el número de valores posibles que puede tomar la característica.
+
+De esta forma, todas las probabilidades permanecen positivas y el clasificador continúa siendo capaz de incorporar nueva evidencia.
+
+---
+
+## Soporte probabilístico
+
+El concepto de **soporte probabilístico** está estrechamente relacionado con la idea del suavizado.
+
+Decimos que una distribución asigna soporte a todos los eventos que considera posibles.
+
+Cuando una probabilidad vale exactamente cero, el modelo está afirmando que dicho evento es imposible.
+
+En la práctica, una ausencia de observaciones no implica necesariamente imposibilidad; simplemente significa que aún no hemos reunido suficiente evidencia.
+
+El suavizado amplía el soporte del modelo, permitiendo asignar una pequeña probabilidad a eventos no observados y evitando conclusiones excesivamente categóricas.
+
+Esta idea resulta coherente con toda la filosofía de la inferencia bayesiana desarrollada en este capítulo.
+
+Desde el punto de vista bayesiano, aprender no consiste en descartar hipótesis de manera absoluta, sino en modificar gradualmente nuestras creencias a medida que aparece nueva evidencia. El suavizado refleja precisamente esta filosofía: incluso cuando nunca hemos observado un determinado evento, mantenemos abierta la posibilidad de que pueda ocurrir en el futuro, asignándole una probabilidad pequeña, pero diferente de cero.
+
+De esta manera, el clasificador Naive Bayes no solo resulta sencillo de implementar y computacionalmente eficiente, sino que además conserva uno de los principios fundamentales de la inferencia probabilística: **la incertidumbre nunca desaparece completamente; simplemente disminuye a medida que aumenta la evidencia disponible.**
+
+Mirar un ejemplo de Naive Bayes para clasificación: [Libro Naive Bayes](./naive_bayes.ipynb)
