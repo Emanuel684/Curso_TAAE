@@ -911,7 +911,7 @@ Existen diferentes herramientas para responder esta pregunta.
 
 ---
 
-#### Distancia de Kullback-Leibler (KL)
+#### Divergencia de Kullback-Leibler (KL)
 
 La distancia de Kullback-Leibler mide cuánta información se pierde cuando una distribución es utilizada para aproximar otra.
 

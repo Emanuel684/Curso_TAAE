@@ -405,6 +405,8 @@ La pregunta ya no será si un modelo comete errores. La pregunta será:
 
 > **¿De dónde provienen esos errores y cómo podemos cuantificarlos?**
 
+Miremos este enlace a un libro que ayudará a entender ese concepto de la compresión de la información: [Libro de conocimiento comprimido](./modelo_conocimiento_comprimido.ipynb)
+
 ---
 
 # El problema fundamental del aprendizaje
@@ -2423,6 +2425,8 @@ Predicción
 
 Estas tres componentes aparecen prácticamente en cualquier problema de aprendizaje estadístico. Comprenderlas constituye el primer paso para interpretar correctamente el comportamiento de cualquier algoritmo.
 
+Miremos esta descripción de los errores en este libro [Explicación fuentes de error](fuentes_de_error.ipynb)
+
 ---
 
 ### Una primera descomposición del error
@@ -3163,6 +3167,8 @@ La divergencia de Kullback-Leibler constituye mucho más que una fórmula matem�
 En la siguiente sección descubriremos una idea aún más interesante. La divergencia KL puede descomponerse en dos componentes diferentes. Una de ellas corresponde a la **entropía** del fenómeno. La otra recibe el nombre de **entropía cruzada**. Esta descomposición permitirá comprender por qué prácticamente todas las funciones de pérdida utilizadas en clasificación corresponden, en realidad, a distintas formas de minimizar la divergencia KL.
 
 ---
+
+Miremos el comportamiento de la divergencia KL en el siguiente libro [Libro Divergencia KL](./distancia_KL.ipynb)
 
 ## Entropía cruzada y su relación con la divergencia KL
 
@@ -4258,7 +4264,7 @@ Mide qué tan bien el modelo explica datos completamente nuevos. El primero resu
 
 ---
 
-# Una analogía con el deporte
+#### Una analogía con el deporte
 
 Imaginemos un arquero que practica durante meses disparando siempre desde exactamente el mismo lugar. Con el tiempo logra acertar todas las flechas en el centro del blanco. Ahora cambia ligeramente la posición de disparo. El arquero comienza a fallar. 
 
@@ -4270,7 +4276,7 @@ Otro arquero, que entrenó desde muchas posiciones diferentes, probablemente obt
 
 ---
 
-# ¿Por qué es tan difícil generalizar?
+### ¿Por qué es tan difícil generalizar?
 
 Generalizar implica responder correctamente ante situaciones que todavía no conocemos. Esto significa que durante el entrenamiento debemos distinguir dos componentes muy diferentes. Por una parte, existen regularidades que permanecerán válidas en el futuro. Por otra, existen detalles accidentales propios de la muestra observada.
 
@@ -4288,7 +4294,7 @@ Generalizar significa aprender el patrón. Memorizar significa aprender también
 
 ---
 
-# La muestra representa el futuro
+#### La muestra representa el futuro
 
 Esta afirmación merece una explicación. Cuando dividimos los datos en entrenamiento y prueba, el conjunto de prueba representa una simulación del futuro. El modelo nunca ha visto esos datos. Por tanto, su comportamiento sobre ellos constituye una estimación de cómo responderá cuando sea utilizado en la práctica.
 
@@ -4314,7 +4320,7 @@ En realidad, el conjunto de prueba no nos interesa por sí mismo. Nos interesa p
 
 ---
 
-# El error de generalización
+#### El error de generalización
 
 Podemos definir ahora un nuevo concepto.
 
@@ -4328,7 +4334,7 @@ No hablamos de un único dato. Hablamos del comportamiento promedio sobre futuro
 
 ---
 
-# Una representación gráfica
+#### Una representación gráfica
 
 Imaginemos que registramos simultáneamente el error de entrenamiento y el error de prueba durante el entrenamiento.
 
@@ -4354,19 +4360,19 @@ La curva inferior representa el error de entrenamiento. Disminuye continuamente.
 
 ---
 
-# ¿Qué significa un buen modelo?
+#### ¿Qué significa un buen modelo?
 
 Después de todo lo estudiado hasta ahora, podemos responder una pregunta planteada al inicio de la unidad. ¿Qué significa realmente que un modelo sea bueno? No significa que tenga el menor error de entrenamiento. No significa que memorice todos los ejemplos. No significa que posea millones de parámetros. Un buen modelo es aquel que produce buenas predicciones sobre datos que todavía no ha observado. Esta definición resume prácticamente toda la teoría moderna del aprendizaje.
 
 ---
 
-# Generalizar implica abstraer
+#### Generalizar implica abstraer
 
 Existe otra forma de interpretar exactamente la misma idea. Generalizar significa construir un nivel de abstracción. Cuando un niño aprende el concepto de árbol, no recuerda cada árbol observado. Construye una representación mental. Después reconoce árboles completamente nuevos. Cuando una red neuronal aprende a identificar rostros, no memoriza cada fotografía. Descubre patrones comunes. En ambos casos, el aprendizaje produce una abstracción. No una memoria.
 
 ---
 
-# El compromiso del aprendizaje
+#### El compromiso del aprendizaje
 
 Llegamos así a una situación muy interesante. Un modelo demasiado simple no logra representar correctamente el fenómeno. Produce un elevado error estructural. Un modelo excesivamente complejo memoriza detalles accidentales. Produce sobreajuste. El verdadero desafío consiste en encontrar un punto intermedio. Podemos representarlo conceptualmente.
 
@@ -4400,7 +4406,7 @@ Todo el aprendizaje automático gira alrededor de encontrar ese equilibrio.
 
 ---
 
-# ¿Cómo favorecemos la generalización?
+#### ¿Cómo favorecemos la generalización?
 
 Esta pregunta ha dado origen a una enorme cantidad de técnicas desarrolladas durante las últimas décadas.
 
@@ -4422,7 +4428,7 @@ Durante el resto de esta unidad estudiaremos las ideas matemáticas que justific
 
 ---
 
-# Una nueva interpretación del aprendizaje
+### Una nueva interpretación del aprendizaje
 
 Podemos resumir el recorrido realizado desde el inicio de esta unidad.
 
@@ -4452,7 +4458,7 @@ Observemos cuidadosamente el diagrama. El aprendizaje no constituye el final del
 
 ---
 
-# Mirando hacia adelante
+### Mirando hacia adelante
 
 Ahora comprendemos que un modelo puede equivocarse por distintas razones. Puede tener poco poder de representación. Puede memorizar el ruido. Puede entrenarse con una muestra insuficiente. Todas estas situaciones reflejan un mismo problema. El equilibrio entre la simplicidad y la complejidad del modelo. En la siguiente sección estudiaremos precisamente este compromiso. Introduciremos dos conceptos fundamentales de la teoría del aprendizaje estadístico: 
 
@@ -4462,13 +4468,13 @@ Descubriremos que prácticamente todos los algoritmos de aprendizaje pueden ente
 
 ---
 
-# Bias y Varianza: el equilibrio del aprendizaje
+### Bias y Varianza: el equilibrio del aprendizaje
 
 En las secciones anteriores descubrimos que el verdadero objetivo del aprendizaje no consiste en memorizar los datos, sino en **generalizar** correctamente hacia observaciones futuras. También vimos que un modelo puede equivocarse por dos razones opuestas. Puede ser demasiado simple para representar el fenómeno. O puede ser tan complejo que termine aprendiendo incluso las pequeñas fluctuaciones aleatorias presentes en los datos. Estas dos situaciones reciben los nombres de **underfitting** y **overfitting**. Sin embargo, todavía no comprendemos completamente por qué aparecen. La respuesta proviene de uno de los conceptos más importantes del aprendizaje estadístico. El **compromiso entre sesgo (bias) y varianza (variance).** Esta idea explica por qué no existe un modelo universalmente mejor y por qué aprender consiste, en realidad, en encontrar un equilibrio.
 
 ---
 
-# Una analogía sencilla
+#### Una analogía sencilla
 
 Imaginemos que varias personas intentan lanzar dardos al centro de una diana.
 
@@ -4513,7 +4519,7 @@ Los lanzamientos se encuentran muy cerca del centro y presentan muy poca dispers
 
 ---
 
-# ¿Qué es el sesgo?
+#### ¿Qué es el sesgo?
 
 El **sesgo** representa un error sistemático.
 
@@ -4523,7 +4529,7 @@ Es la tendencia del modelo a producir siempre predicciones desplazadas respecto 
 
 ---
 
-# Un ejemplo cotidiano
+#### Un ejemplo cotidiano
 
 Supongamos que una balanza presenta un defecto de fabricación. Cada vez que pesamos un objeto, marca exactamente dos kilogramos adicionales.
 
@@ -4543,7 +4549,7 @@ La balanza es perfectamente consistente. Siempre produce el mismo resultado. Sin
 
 ---
 
-# El sesgo en un modelo
+#### El sesgo en un modelo
 
 Los modelos excesivamente simples presentan un comportamiento similar. Imaginemos nuevamente una relación claramente curva.
 
@@ -4571,7 +4577,7 @@ Aunque el algoritmo encuentre la mejor recta posible, seguirá existiendo una di
 
 ---
 
-# ¿Qué es la varianza?
+#### ¿Qué es la varianza?
 
 La **varianza** representa algo completamente diferente.
 
@@ -4581,7 +4587,7 @@ Si obtenemos diez modelos completamente distintos, la varianza será elevada.
 
 ---
 
-# Una analogía con una opinión
+#### Una analogía con una opinión
 
 Supongamos que preguntamos a una persona cuál considera la mejor película de la historia. Si responde exactamente lo mismo cada vez, su respuesta presenta poca variabilidad. 
 
@@ -4591,7 +4597,7 @@ Los modelos de aprendizaje presentan un comportamiento similar. Algunos producen
 
 ---
 
-# El origen de la varianza
+#### El origen de la varianza
 
 ¿Por qué ocurre este fenómeno?
 
@@ -4601,11 +4607,11 @@ En otras palabras, el modelo se vuelve extremadamente sensible a la muestra util
 
 ---
 
-# Dos extremos del aprendizaje
+#### Dos extremos del aprendizaje
 
 Podemos resumir las ideas anteriores mediante dos situaciones opuestas.
 
-## Modelos demasiado simples
+##### Modelos demasiado simples
 
 * Baja capacidad.
 * Elevado sesgo.
@@ -4614,7 +4620,7 @@ Podemos resumir las ideas anteriores mediante dos situaciones opuestas.
 
 ---
 
-## Modelos demasiado complejos
+##### Modelos demasiado complejos
 
 * Alta capacidad.
 * Bajo sesgo.
@@ -4625,7 +4631,7 @@ Observemos que ambos extremos producen errores, aunque por razones completamente
 
 ---
 
-# Una representación gráfica
+##### Una representación gráfica
 
 Podemos imaginar la siguiente evolución.
 
@@ -4664,7 +4670,7 @@ A medida que aumenta la complejidad, el sesgo disminuye. Sin embargo, la varianz
 
 ---
 
-# ¿Dónde aparece el mejor modelo?
+#### ¿Dónde aparece el mejor modelo?
 
 El mejor modelo no se encuentra en ninguno de los extremos. Podemos representar la suma de ambos efectos.
 
@@ -4688,7 +4694,7 @@ El error total disminuye inicialmente. Posteriormente alcanza un mínimo. Finalm
 
 ---
 
-# Una interpretación intuitiva
+#### Una interpretación intuitiva
 
 Podemos entender este equilibrio mediante una analogía muy sencilla. Supongamos que deseamos describir un paisaje. Una posibilidad consiste en realizar un dibujo extremadamente simple.
 
@@ -4704,19 +4710,19 @@ Captura la idea general. Pero pierde muchos detalles. Ahora imaginemos el extrem
 
 ---
 
-# La conexión con la información
+#### La conexión con la información
 
 Recordemos la interpretación desarrollada anteriormente. Aprender consiste en descubrir regularidades. No consiste en memorizar observaciones. Un modelo con elevado sesgo elimina demasiada información. La representación resulta excesivamente simple. Por el contrario, un modelo con elevada varianza conserva demasiada información, incluyendo detalles accidentales que no representan el fenómeno. Podemos interpretar ambos extremos como dos formas distintas de compresión inadecuada.
 
 ---
 
-# El papel del tamaño de la muestra
+#### El papel del tamaño de la muestra
 
 Existe otro aspecto muy interesante. La misma familia de modelos puede comportarse de manera diferente dependiendo de la cantidad de datos disponible. Supongamos una red neuronal muy grande. Si entrenamos utilizando únicamente cien observaciones, probablemente aparecerá una elevada varianza. Pero si disponemos de varios millones de ejemplos, esa misma red puede generalizar extraordinariamente bien. Esto significa que el equilibrio entre bias y varianza no depende  únicamente del modelo. También depende de la cantidad y la calidad de la información disponible.
 
 ---
 
-# ¿Cómo reducir el sesgo?
+#### ¿Cómo reducir el sesgo?
 
 Si el problema principal consiste en un elevado sesgo, normalmente necesitamos aumentar la capacidad del modelo.
 
@@ -4731,7 +4737,7 @@ El objetivo consiste en representar mejor el fenómeno.
 
 ---
 
-# ¿Cómo reducir la varianza?
+#### ¿Cómo reducir la varianza?
 
 Si el problema principal consiste en una elevada varianza,
 
@@ -4750,7 +4756,7 @@ Todas estas técnicas buscan reducir la sensibilidad del modelo frente a pequeñ
 
 ---
 
-# Una visión unificada
+#### Una visión unificada
 
 Ahora podemos conectar prácticamente todos los conceptos estudiados durante esta unidad.
 
@@ -4786,7 +4792,7 @@ Observemos que todos estos conceptos aparecen como diferentes perspectivas de un
 
 ---
 
-# La respuesta a la pregunta inicial
+### La respuesta a la pregunta inicial
 
 Al comienzo de esta unidad planteamos una pregunta.
 
@@ -4798,7 +4804,7 @@ Esta idea resume gran parte de la teoría moderna del aprendizaje estadístico. 
 
 ---
 
-# Regularización: controlar la complejidad del modelo
+## Regularización: controlar la complejidad del modelo
 
 En las secciones anteriores descubrimos una idea que puede parecer paradójica. Los modelos muy simples producen un elevado sesgo. Los modelos excesivamente complejos producen una elevada varianza. En ambos casos aparecen errores. El verdadero desafío consiste en encontrar un punto intermedio donde el modelo sea lo suficientemente expresivo para representar el fenómeno, pero no tanto como para memorizar el ruido presente en los datos. Surge entonces una pregunta natural.
 
@@ -4808,7 +4814,7 @@ La respuesta recibe el nombre de **regularización**. La regularización constit
 
 ---
 
-# ¿Por qué necesitamos regularizar?
+### ¿Por qué necesitamos regularizar?
 
 Recordemos el problema del sobreajuste. Supongamos que disponemos de un conjunto de datos relativamente pequeño. Si permitimos que el modelo sea arbitrariamente complejo, podrá adaptarse a prácticamente cualquier detalle de la muestra. Incluso pequeñas fluctuaciones producidas por ruido serán interpretadas como si formaran parte del fenómeno. Como consecuencia, el error de entrenamiento disminuirá continuamente, pero el error sobre datos nuevos comenzará a aumentar.
 
@@ -4837,7 +4843,7 @@ La regularización intenta impedir precisamente que el modelo llegue a esa regi�
 
 ---
 
-# Una analogía cotidiana
+### Una analogía cotidiana
 
 Imaginemos que un arquitecto diseña un puente. Podría añadir vigas, refuerzos, placas, tornillos, y estructuras adicionales prácticamente sin límite. El puente sería cada vez más complejo.
 
@@ -4845,13 +4851,13 @@ Sin embargo, llegaría un momento en que esa complejidad adicional dejaría de a
 
 ---
 
-# El principio de simplicidad
+### El principio de simplicidad
 
 La regularización se basa en una idea muy antigua en Ciencia. Entre dos modelos que explican igualmente bien un fenómeno, preferimos el más simple. Esta idea ya apareció anteriormente cuando estudiamos la Navaja de Occam. Ahora adquiere una formulación matemática. Durante el entrenamiento no solamente buscamos un modelo que explique correctamente los datos. También buscamos que dicho modelo permanezca razonablemente simple. En consecuencia, el aprendizaje deja de optimizar un único objetivo. Ahora intenta equilibrar dos objetivos simultáneamente.
 
 ---
 
-# Dos objetivos diferentes
+### Dos objetivos diferentes
 
 Podemos representar el entrenamiento mediante el siguiente esquema.
 
@@ -4875,7 +4881,7 @@ El mejor modelo ya no será necesariamente el que obtenga el menor error de entr
 
 ---
 
-# Incorporando una penalización
+### Incorporando una penalización
 
 Desde un punto de vista matemático, la regularización consiste en modificar la función de pérdida. Supongamos que inicialmente deseamos minimizar
 
@@ -4912,7 +4918,7 @@ Toda la teoría de la regularización puede entenderse a partir de esta sencilla
 
 ---
 
-# El significado de λ
+### El significado de λ
 
 El parámetro
 
@@ -4938,7 +4944,7 @@ es extremadamente grande, el algoritmo priorizará excesivamente la simplicidad.
 
 ---
 
-# Una interpretación intuitiva
+### Una interpretación intuitiva
 
 Podemos imaginar
 
@@ -4954,7 +4960,7 @@ Si la respuesta es negativa, preferirá un modelo más sencillo.
 
 ---
 
-# Regularización L2
+### Regularización L2
 
 Una de las formas más utilizadas de regularización recibe el nombre de **regularización L2** o **Ridge**. La penalización se define como
 
@@ -4975,13 +4981,13 @@ Durante el entrenamiento, el algoritmo intenta mantener dichos parámetros relat
 
 ---
 
-# Una analogía física
+#### Una analogía física
 
 Imaginemos una lámina metálica unida al origen mediante pequeños resortes. Cada parámetro del modelo corresponde a una posición sobre esa lámina. Mientras el algoritmo intenta ajustar los datos, los resortes ejercen continuamente una fuerza que atrae los parámetros hacia valores moderados. No impiden el movimiento. Simplemente dificultan que los parámetros crezcan excesivamente. Esta imagen resulta bastante cercana a lo que realmente ocurre durante el entrenamiento con regularización L2.
 
 ---
 
-# Regularización L1
+### Regularización L1
 
 Existe otra estrategia muy utilizada.
 
@@ -5000,17 +5006,17 @@ Aunque la expresión parece muy similar, su comportamiento es bastante diferente
 
 ---
 
-# Selección automática de variables
+#### Selección automática de variables
 
 Esta propiedad convierte a L1 en una herramienta muy interesante. Supongamos que construimos un modelo utilizando veinte variables. Durante el entrenamiento, la regularización L1 puede descubrir que únicamente ocho resultan realmente necesarias. Las demás reciben coeficientes exactamente iguales a cero. En consecuencia, el modelo termina realizando una selección automática de variables. Este comportamiento resulta muy útil cuando trabajamos con bases de datos de gran dimensión.
 
 ---
 
-# Comparando ambos enfoques
+### Comparando ambos enfoques
 
 Podemos resumir intuitivamente ambos métodos.
 
-## Regularización L2
+#### Regularización L2
 
 * Reduce todos los parámetros.
 * Conserva la mayoría de las variables.
@@ -5018,7 +5024,7 @@ Podemos resumir intuitivamente ambos métodos.
 
 ---
 
-## Regularización L1
+#### Regularización L1
 
 * Elimina completamente algunos parámetros.
 * Produce modelos más pequeños.
@@ -5030,7 +5036,7 @@ Reducir la complejidad del modelo.
 
 ---
 
-# Regularización como control de la información
+### Regularización como control de la información
 
 Ahora podemos conectar esta idea con la interpretación informacional desarrollada anteriormente. Recordemos que aprender consiste en construir una representación compacta de la realidad. Un modelo excesivamente complejo conserva demasiada información, incluyendo ruido y detalles accidentales.
 
@@ -5038,13 +5044,13 @@ La regularización obliga al modelo a conservar únicamente aquella información
 
 ---
 
-# Una interpretación desde la compresión
+### Una interpretación desde la compresión
 
 Podemos imaginar nuevamente el proceso de compresión. Si permitimos que un algoritmo de compresión almacene absolutamente todos los detalles, el archivo comprimido terminará teniendo prácticamente el mismo tamaño que el original. No habremos comprimido nada. La verdadera compresión consiste en conservar únicamente la información esencial. La regularización desempeña exactamente ese papel. Obliga al modelo a distinguir entre información importante e información accidental.
 
 ---
 
-# El papel de la experiencia
+### El papel de la experiencia
 
 Resulta interesante observar que los seres humanos también utilizan una forma natural de regularización.
 
@@ -5052,7 +5058,7 @@ Cuando un médico aprende a diagnosticar enfermedades, no memoriza cada paciente
 
 ---
 
-# Regularización y generalización
+### Regularización y generalización
 
 Ahora podemos conectar prácticamente todos los conceptos estudiados durante esta unidad.
 
@@ -5092,7 +5098,7 @@ La regularización no intenta mejorar el entrenamiento. Su verdadero propósito 
 
 ---
 
-# La regularización en el aprendizaje profundo
+### La regularización en el aprendizaje profundo
 
 Aunque hemos ilustrado estas ideas utilizando modelos relativamente sencillos, la regularización aparece también en redes neuronales profundas. Algunas técnicas ampliamente utilizadas son:
 
@@ -5107,7 +5113,7 @@ Todas ellas persiguen exactamente el mismo objetivo. Evitar que la red memorice 
 
 ---
 
-# Una visión unificada
+### Una visión unificada
 
 Podemos detenernos un momento y observar cómo todas las ideas desarrolladas durante esta unidad comienzan a conectarse.
 
@@ -5147,7 +5153,7 @@ Lo que inicialmente parecía una colección de conceptos independientes comienza
 
 ---
 
-# Una conclusión importante
+### Una conclusión importante
 
 Al comienzo de esta unidad dijimos que aprender consistía en construir un modelo. Posteriormente comprendimos que ese modelo constituye una representación comprimida de la realidad. Después descubrimos que una representación excesivamente compleja puede memorizar el ruido. Finalmente, la regularización apareció como el mecanismo que limita esa complejidad para favorecer la generalización. En otras palabras, la regularización no es simplemente una técnica matemática. Es la forma en que obligamos al modelo a aprender únicamente aquello que realmente importa. En la siguiente sección reuniremos todos los conceptos desarrollados durante la unidad para construir una interpretación unificada del aprendizaje desde la teoría de la información. Descubriremos que la Estadística, la teoría de la información y el aprendizaje automático pueden entenderse como distintas manifestaciones de un mismo principio fundamental.
 
@@ -5155,7 +5161,7 @@ Al comienzo de esta unidad dijimos que aprender consistía en construir un model
 
 # Parte 5 — Una visión unificada del aprendizaje
 
-# Una interpretación informacional del aprendizaje
+## Una interpretación informacional del aprendizaje
 
 Al comenzar esta unidad planteamos una pregunta aparentemente sencilla.
 
@@ -5165,7 +5171,7 @@ A lo largo de las secciones anteriores hemos recorrido un camino considerable pa
 
 ---
 
-# Una mirada hacia atrás
+## Una mirada hacia atrás
 
 Podemos resumir el recorrido realizado mediante una única pregunta.
 
@@ -5201,7 +5207,7 @@ Cada una de estas etapas implica una pérdida de información. Y, al mismo tiemp
 
 ---
 
-# La realidad contiene más información de la que podemos manejar
+## La realidad contiene más información de la que podemos manejar
 
 La realidad es extraordinariamente compleja.
 
@@ -5213,7 +5219,7 @@ hemos comprimido toda esa complejidad en una única idea. Nuestro cerebro elimin
 
 ---
 
-# El papel de los datos
+## El papel de los datos
 
 Los datos representan únicamente una pequeña ventana hacia la realidad. Nunca observamos el fenómeno completo. Observamos únicamente ejemplos. En consecuencia, todo aprendizaje comienza con información incompleta.
 
@@ -5233,7 +5239,7 @@ Desde el inicio aceptamos que parte de la información permanecerá desconocida.
 
 ---
 
-# El modelo como representación
+## El modelo como representación
 
 Posteriormente construimos un modelo. Este modelo tampoco contiene toda la información de los datos. Conserva únicamente aquello que considera importante. 
 
@@ -5259,7 +5265,7 @@ Cada paso reduce la cantidad de información. Pero aumenta nuestra capacidad par
 
 ---
 
-# Aprender es comprimir
+## Aprender es comprimir
 
 Ahora podemos expresar esta idea de una forma mucho más precisa. Un modelo constituye un mecanismo de compresión. No almacena todas las observaciones. Almacena únicamente las relaciones existentes entre ellas. 
 
@@ -5281,7 +5287,7 @@ Una red neuronal almacena millones de parámetros, pero sigue siendo infinitamen
 
 ---
 
-# ¿Qué significa una buena compresión?
+## ¿Qué significa una buena compresión?
 
 No toda compresión resulta igualmente útil. Podemos comprimir demasiado. En ese caso, perdemos información importante. Aparece un elevado sesgo. El modelo deja de representar correctamente la realidad. También podemos comprimir muy poco. 
 
@@ -5289,7 +5295,7 @@ El modelo conserva incluso detalles accidentales. Memoriza el ruido. Aparece una
 
 ---
 
-# El papel de la teoría de la información
+## El papel de la teoría de la información
 
 La teoría de la información nos permitió responder otra pregunta. ¿Cómo medir objetivamente la calidad de una representación? La respuesta apareció mediante la divergencia de Kullback-Leibler.
 
@@ -5313,25 +5319,25 @@ La divergencia KL cuantifica cuánta información adicional necesitamos porque n
 
 ---
 
-# Una nueva interpretación de Maximum Likelihood
+## Una nueva interpretación de Maximum Likelihood
 
 Durante muchos años, Maximum Likelihood fue interpretado simplemente como un procedimiento estadístico para estimar parámetros. Ahora sabemos que representa algo mucho más profundo. Cuando maximizamos la likelihood, estamos construyendo el modelo cuya representación requiere la menor cantidad posible de información adicional. La Estadística y la teoría de la información terminan describiendo exactamente el mismo proceso.
 
 ---
 
-# El verdadero significado de la entropía cruzada
+## El verdadero significado de la entropía cruzada
 
 Algo similar ocurre con la entropía cruzada. Inicialmente parecía únicamente una función de pérdida utilizada en redes neuronales. Ahora comprendemos que representa otra perspectiva del mismo fenómeno. Minimizar la entropía cruzada significa reducir la diferencia entre el modelo y la realidad. Por tanto, entrenar una red neuronal equivale, desde el punto de vista informacional, a construir una representación cada vez más eficiente del mundo.
 
 ---
 
-# Aprender no significa recordar
+## Aprender no significa recordar
 
 Llegamos así a una conclusión muy importante. Existe una diferencia enorme entre recordar y aprender. Recordar significa conservar experiencias individuales. Aprender significa descubrir regularidades. Podemos ilustrarlo mediante una analogía sencilla. Supongamos que una persona memoriza absolutamente todas las rutas que ha recorrido en automóvil. Otra aprende únicamente las reglas generales de navegación. La primera necesitará una enorme cantidad de memoria. La segunda podrá desplazarse incluso por ciudades completamente nuevas. El aprendizaje produce flexibilidad. La memoria produce únicamente almacenamiento. Los modelos estadísticos buscan exactamente esa flexibilidad.
 
 ---
 
-# Generalizar es la consecuencia natural
+## Generalizar es la consecuencia natural
 
 Ahora comprendemos también por qué la generalización ocupa un lugar central en el aprendizaje automático. Si el modelo descubre realmente las regularidades del fenómeno, será capaz de responder correctamente ante situaciones nuevas.
 
@@ -5339,7 +5345,7 @@ En cambio, si únicamente memoriza los ejemplos observados, fracasará cuando ap
 
 ---
 
-# Una visión desde la Ciencia
+## Una visión desde la Ciencia
 
 Resulta interesante observar que prácticamente todas las ciencias funcionan de esta manera. La Física no memoriza cada movimiento observado. Construye leyes generales. 
 
@@ -5355,7 +5361,7 @@ En otras palabras, la Ciencia también constituye un proceso de compresión de i
 
 ---
 
-# Una perspectiva sobre la Inteligencia Artificial
+## Una perspectiva sobre la Inteligencia Artificial
 
 Ahora podemos responder otra pregunta muy frecuente. ¿Qué hace realmente un sistema de Inteligencia Artificial? No memoriza simplemente grandes cantidades de datos. Intenta descubrir patrones, regularidades y relaciones ocultas.
 
@@ -5365,7 +5371,7 @@ Desde esta perspectiva, la Inteligencia Artificial no resulta conceptualmente di
 
 ---
 
-# Una representación completa
+## Una representación completa
 
 Podemos resumir toda la unidad mediante el siguiente esquema.
 
@@ -5405,7 +5411,7 @@ Cada etapa reduce la cantidad de información. Pero incrementa la capacidad para
 
 ---
 
-# Una segunda representación
+## Una segunda representación
 
 También podemos organizar todos los conceptos estudiados durante la unidad.
 
@@ -5457,7 +5463,7 @@ Aunque inicialmente parecían conceptos independientes, todos forman parte de un
 
 ---
 
-# La respuesta a la pregunta inicial
+## La respuesta a la pregunta inicial
 
 Podemos regresar finalmente a la pregunta que abrió esta unidad.
 
@@ -5479,7 +5485,7 @@ Todos constituyen diferentes manifestaciones de un mismo principio.
 
 ---
 
-# Un puente hacia las siguientes unidades
+## Un puente hacia las siguientes unidades
 
 Esta unidad marca un cambio importante en la forma de entender el aprendizaje automático. Hasta ahora hemos estudiado los principios generales. En las próximas unidades comenzaremos a analizar algoritmos concretos. 
 
