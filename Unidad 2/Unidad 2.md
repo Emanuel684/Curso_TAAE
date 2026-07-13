@@ -582,6 +582,218 @@ Es importante notar que la incertidumbre que disminuye no es la incertidumbre de
 
 
 ---
+## Entropía: una medida de la información de una fuente
+
+Hasta ahora hemos hablado repetidamente de incertidumbre.
+
+Cuando utilizamos el Teorema de Bayes, observamos cómo la evidencia reduce nuestra incertidumbre acerca de una hipótesis. Sin embargo, aún no hemos respondido una pregunta fundamental:
+
+> **¿Cómo podemos medir cuánta incertidumbre posee una distribución de probabilidad?**
+
+La respuesta fue propuesta por Claude Shannon en 1948 al fundar la Teoría de la Información.
+
+Curiosamente, Shannon no estaba intentando estudiar el conocimiento humano ni el aprendizaje automático. Su problema era mucho más práctico.
+
+### El problema original
+
+Imaginemos que deseamos transmitir mensajes utilizando únicamente bits.
+
+Cada símbolo producido por una fuente debe convertirse en una secuencia de ceros y unos.
+
+La pregunta es:
+
+> **¿Cuál es el menor número promedio de bits necesarios para representar los mensajes producidos por esa fuente?**
+
+Esta pregunta puede parecer muy distinta de las probabilidades, pero en realidad ambas están profundamente relacionadas.
+
+---
+
+### Una fuente muy predecible
+
+Supongamos que una fuente únicamente produce la letra
+
+```
+A
+```
+
+una y otra vez.
+
+```
+A A A A A A A A A ...
+```
+
+¿Necesitamos muchos bits para transmitir esta información?
+
+No.
+
+De hecho, basta comunicar una única vez que la fuente siempre produce el mismo símbolo.
+
+La secuencia completa puede describirse con muy poca información.
+
+Existe muy poca incertidumbre.
+
+---
+
+### Una fuente equilibrada
+
+Ahora imaginemos una moneda perfectamente equilibrada.
+
+Produce
+
+```
+Cara
+Sello
+Cara
+Cara
+Sello
+...
+```
+
+Antes de observar el siguiente lanzamiento no sabemos cuál será el resultado.
+
+Cada nuevo símbolo aporta información nueva.
+
+En promedio necesitaremos aproximadamente un bit por lanzamiento para describir la secuencia.
+
+La incertidumbre ha aumentado.
+
+---
+
+### Una fuente con muchos símbolos
+
+Supongamos ahora que una fuente puede producir las 256 posibles combinaciones de un byte y todas aparecen con la misma probabilidad.
+
+Ahora necesitamos aproximadamente
+
+$$
+8
+$$
+
+bits para representar cada símbolo.
+
+La incertidumbre es mucho mayor porque existen muchas posibilidades igualmente plausibles.
+
+---
+
+### La idea fundamental
+
+Observemos qué tienen en común los tres ejemplos.
+
+No importa cuál sea el significado de los símbolos.
+
+Lo único importante es su distribución de probabilidades.
+
+Cuanto más concentrada se encuentre la distribución, menos bits necesitaremos para describir los mensajes.
+
+Cuanto más uniforme sea la distribución, más bits necesitaremos.
+
+La entropía mide precisamente ese número mínimo promedio de bits por símbolo.
+
+---
+
+### Definición
+
+Si una variable aleatoria puede tomar los valores
+
+$$
+x_1,x_2,\ldots,x_n
+$$
+
+con probabilidades
+
+$$
+p(x_i),
+$$
+
+su entropía se define como
+
+$$
+H(X)
+=
+-\sum_i
+p(x_i)\log_2 p(x_i).
+$$
+
+La unidad es el **bit**, porque utilizamos logaritmos en base dos.
+
+---
+
+### Algunos ejemplos
+
+#### Resultado completamente conocido
+
+Si
+
+$$
+P(A)=1,
+$$
+
+entonces
+
+$$
+H=0.
+$$
+
+No existe incertidumbre.
+
+No necesitamos transmitir información para indicar cuál será el siguiente símbolo.
+
+---
+
+#### Moneda equilibrada
+
+Si
+
+$$
+P(\text{cara})=P(\text{sello})=0.5,
+$$
+
+entonces
+
+$$
+H=1 \text{ bit}.
+$$
+
+Cada lanzamiento requiere, en promedio, un bit para describirse.
+
+---
+
+#### Cuatro símbolos equiprobables
+
+Si existen cuatro resultados igualmente probables,
+
+$$
+P=\frac14,
+$$
+
+entonces
+
+$$
+H=2 \text{ bits}.
+$$
+
+La cantidad de información aumenta porque ahora debemos distinguir entre cuatro posibilidades.
+
+---
+
+### Una interpretación importante
+
+La entropía no mide el significado de un mensaje.
+
+Tampoco mide su utilidad ni su importancia.
+
+La entropía únicamente mide cuánta información, en promedio, debe almacenarse o transmitirse para representar los símbolos producidos por una fuente.
+
+Desde esta perspectiva, una distribución de probabilidad puede interpretarse como una descripción de cuánto conocimiento necesitamos para representar un fenómeno.
+
+Esta idea será fundamental en las próximas unidades.
+
+Veremos que muchos algoritmos de aprendizaje pueden interpretarse como mecanismos que buscan construir representaciones cada vez más compactas de los datos, reduciendo la cantidad de información necesaria para describir la realidad sin perder aquello que resulta esencial.
+
+Mirar este [libro](./Ejemplo_entropia.ipynb) introductorio a la entropía.
+
+Posteriormente mirar [este ejemplo](./Juego_de_ahorcado_Entropia.ipynb) más complejo referente al juego del ahorcado, como una clara aplicación de la entropía.
+
 
 ## Likelihood y Maximum Likelihood
 
