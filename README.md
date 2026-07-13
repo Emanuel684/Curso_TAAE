@@ -56,7 +56,7 @@ uv --version
 Clona el proyecto y entra a la carpeta:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/robertohincapie/Curso_TAAE.git
 cd Curso_TAAE
 ```
 
@@ -107,16 +107,3 @@ Si quieres registrar el kernel manualmente:
 uv run python -m ipykernel install --user --name curso-taae --display-name "Python (curso-taae)"
 ```
 
-## Uso rapido
-
-Ejecutar el archivo principal:
-
-```bash
-uv run python main.py
-```
-
-Abrir Jupyter:
-
-```bash
-uv run jupyter lab
-```
