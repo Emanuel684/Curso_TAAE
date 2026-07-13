@@ -173,6 +173,13 @@ Mirar un libro que presenta la forma como va ganando información a partir del t
 
 ## Aprender como actualización de probabilidades
 
+<center>
+<img src='./imagenes/bayes.jpg' width=400>
+</center>
+
+
+Muy importante, mirar este ilustrativo video: [Video](https://www.youtube.com/watch?v=D7KKlC0LOyw)
+
 La interpretación moderna de Bayes consiste en entender el aprendizaje como un proceso continuo de actualización.
 
 Cada nueva observación:
@@ -185,9 +192,9 @@ En lugar de producir respuestas absolutas, Bayes produce distribuciones de proba
 
 ---
 
-## Priors y Posteriors
+### Priors y Posteriors
 
-### Prior
+#### Prior
 
 Antes de observar datos tenemos una distribución de creencias.
 
@@ -207,7 +214,7 @@ que corresponde a una distribución uniforme.
 
 ---
 
-### Posterior
+#### Posterior
 
 Ahora observamos:
 
@@ -226,11 +233,11 @@ La distribución posterior se concentra alrededor de dichos valores.
 
 ---
 
-### Mismo valor esperado, distinta incertidumbre
+#### Mismo valor esperado, distinta incertidumbre
 
 Supongamos dos situaciones:
 
-#### Caso 1
+##### Caso 1
 
 Observamos:
 
@@ -245,7 +252,7 @@ $$
 
 ---
 
-#### Caso 2
+##### Caso 2
 
 Observamos:
 
@@ -949,7 +956,7 @@ Desde esta perspectiva, aprender consiste en encontrar los parámetros que mejor
 
 ---
 
-# Clasificador Bayesiano Naive
+## Clasificador Bayesiano Naive
 
 Hasta ahora hemos estudiado cómo Bayes permite estimar parámetros desconocidos y actualizar nuestras creencias a medida que obtenemos nueva evidencia.
 
@@ -966,7 +973,7 @@ En todos estos casos buscamos calcular la probabilidad de una clase a partir de 
 
 ---
 
-## El problema de la clasificación
+### El problema de la clasificación
 
 Supongamos que observamos una muestra descrita mediante varias variables:
 
@@ -993,7 +1000,7 @@ es decir, la probabilidad de que la muestra pertenezca a la clase \(C_k\) dadas 
 
 ---
 
-## Aplicando el Teorema de Bayes
+### Aplicando el Teorema de Bayes
 
 Utilizando el Teorema de Bayes obtenemos:
 
@@ -1020,7 +1027,7 @@ y seleccionar la clase que produzca el mayor valor.
 
 ---
 
-## El supuesto "naive"
+### El supuesto "naive"
 
 El principal inconveniente aparece al calcular la probabilidad conjunta:
 
@@ -1049,7 +1056,7 @@ Sorprendentemente, aun cuando esta hipótesis no se cumple de manera exacta, el 
 
 ---
 
-## Regla de decisión
+### Regla de decisión
 
 Finalmente, la clasificación consiste en elegir la clase cuya probabilidad posterior sea mayor:
 
@@ -1066,7 +1073,7 @@ En otras palabras, se selecciona la clase que mejor explica simultáneamente tod
 
 ---
 
-## Relación con el aprendizaje bayesiano
+### Relación con el aprendizaje bayesiano
 
 Aunque Naive Bayes utiliza el mismo Teorema de Bayes que hemos estudiado anteriormente, responde a una pregunta diferente.
 
@@ -1094,7 +1101,7 @@ De esta forma, Naive Bayes constituye uno de los clasificadores probabilísticos
 
 ---
 
-# Smoothing y soporte probabilístico
+## Smoothing y soporte probabilístico
 
 Existe, sin embargo, un problema práctico que aparece con frecuencia al construir un clasificador Naive Bayes.
 
@@ -1122,7 +1129,7 @@ En consecuencia, una única característica no observada podría descartar compl
 
 ---
 
-## Suavizado (Smoothing)
+### Suavizado (Smoothing)
 
 Para evitar este problema se emplea una técnica conocida como **suavizado** (*smoothing*).
 
@@ -1156,7 +1163,7 @@ De esta forma, todas las probabilidades permanecen positivas y el clasificador c
 
 ---
 
-## Soporte probabilístico
+### Soporte probabilístico
 
 El concepto de **soporte probabilístico** está estrechamente relacionado con la idea del suavizado.
 

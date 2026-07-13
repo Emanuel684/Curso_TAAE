@@ -89,7 +89,7 @@ A medida que avanzamos por esta unidad veremos que cada una de estas transformac
 
 ---
 
-# La idea central de esta unidad
+## La idea central de esta unidad
 
 En las unidades anteriores estudiamos cómo estimar probabilidades y cómo ajustar distribuciones a partir de datos.
 
@@ -1466,7 +1466,7 @@ Responder estas preguntas requerirá introducir nuevas herramientas provenientes
 
 ---
 
-# Parte 2 — Las fuentes del error
+# Las fuentes del error
 
 ## Error de muestreo
 
@@ -2473,7 +2473,7 @@ La respuesta proviene nuevamente de la teoría de la información. En las siguie
 
 ---
 
-# Parte 3 — Midiendo la calidad de un modelo
+# Midiendo la calidad de un modelo
 
 ## La divergencia de Kullback-Leibler (KL)
 
@@ -3860,7 +3860,7 @@ Finalmente descubrimos que el entrenamiento de prácticamente todos los modelos 
 
 ---
 
-# Parte 4 — Aprender y generalizar
+# Aprender y generalizar
 
 ## Overfitting: cuando un modelo aprende demasiado
 
@@ -5159,7 +5159,7 @@ Al comienzo de esta unidad dijimos que aprender consistía en construir un model
 
 ---
 
-# Parte 5 — Una visión unificada del aprendizaje
+# Una visión unificada del aprendizaje
 
 ## Una interpretación informacional del aprendizaje
 

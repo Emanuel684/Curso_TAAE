@@ -332,7 +332,7 @@ Este problema motiva posteriormente el uso de distribuciones paramétricas como:
 * Gamma.
 * Weibull.
 
-### Trabajo en clase: 
+### Trabajo para analizar de manera personal: 
 
 Vamos a analizar el dataset de los pasajeros del Titanic, para mirar las diferentes distribuciones de probabilidad muestrales que podemos obtener. Mirar este libro [Libro Titanic](./distribuciones_empiricas.ipynb)
 
@@ -357,6 +357,8 @@ Inferencia y predicción
 ```
 
 Toda la teoría posterior del curso se apoyará sobre esta idea fundamental: utilizar muestras para construir representaciones probabilísticas de una realidad parcialmente observada.
+
+Desarrolle este contenido dentro de la clase o posteriormente en su casa, para comprender el concepto de las distribuciones empíricas [Trabaje sobre este libro](./Ejemplo_NYT.ipynb)
 
 ## Variables aleatorias y distribuciones de probabilidad
 
@@ -1116,3 +1118,6 @@ A partir de este momento surge una nueva pregunta:
 La respuesta a esta pregunta nos llevará a la inferencia estadística, la estimación por máxima verosimilitud y la inferencia bayesiana, temas que estudiaremos en las siguientes unidades.
 
 Lo que más me gusta de esta narrativa es que la entropía y la KL ya no aparecen como conceptos aislados. Aparecen porque el estudiante tiene una necesidad concreta: **comparar una distribución empírica obtenida de los datos con un modelo teórico propuesto**. Ahí la KL se vuelve una herramienta natural y Bayes queda preparado para la siguiente unidad.
+
+## Trabajo en clase y tarea No. 1:
+A partir de los datos del archivo siguiente [Archivo](https://www.robertohincapie.com/data/permanencia_ingenierias.csv) que representa datos de cierta cantidad de estudiantes (Una muestra aleatoria) de la Escuela de Ingenierías, encuentre al menos 3 variables de la muestra que pueda analizar su distribución de probabilidad e intente hacer el ajuste de una distribución paramétrica. Realice todo el procedimiento en un libro de colab y entréguelo entro del grupo de teams en el sitio de la tarea.  
