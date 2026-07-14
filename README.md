@@ -101,9 +101,3 @@ Si VS Code no lo detecta automaticamente, selecciona manualmente una de estas ru
 
 Como el proyecto ya incluye `ipykernel`, despues de ejecutar `uv sync` normalmente podras abrir los notebooks y escoger el kernel del entorno `.venv` desde tu editor.
 
-Si quieres registrar el kernel manualmente:
-
-```bash
-uv run python -m ipykernel install --user --name curso-taae --display-name "Python (curso-taae)"
-```
-
