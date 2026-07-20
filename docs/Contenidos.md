@@ -39,7 +39,7 @@ El trabajo en clase de este tema será el desarrollo de los problemas planteados
 - Experimento de Bayes (moneda/izquierda-derecha): Distribución Beta y reducción de incertidumbre [Ver este contenido](../Unidad%202/Unidad%202.md)
 - Likelihood y Maximum Likelihood para estimación de distribuciones paramétricas. [Ver este contenido](../Unidad%202/Unidad%202.md#Likelihood-y-Maximum-Likelihood)
 
-### Trabajo en clase, Trabajo No. 1, 25%
+### Trabajo en clase, Trabajo No. 1, 20%
 
 TODO
 
@@ -83,7 +83,7 @@ TODO
 - Aprender es generalizar: Overfitting y generalización. - Regularización e información disponible, Bias vs varianza [Ver este contenido](../Unidad%203/Unidad%203.md#Aprender-y-generalizar)
 - Interpretación informacional del aprendizaje [Ver este contenido](../Unidad%203/Unidad%203.md#Una-visión-unificada-del-aprendizaje)
 
-### Trabajo en clase, Trabajo No. 2, 25%
+### Trabajo en clase, Trabajo No. 2, 20%
 
 TODO
 
@@ -115,7 +115,7 @@ TODO
 - Reducción de dimensionalidad
 - Representación latente
 
-### Trabajo en clase, Tarea No. 3, 5%
+### Trabajo en clase, Trabajo No. 3, 20%
 
 TODO
 
@@ -154,6 +154,6 @@ TODO
 - Modelos AR, MA y ARIMA
 - Predicción probabilística
 
-### Trabajo en clase, Trabajo No. 4, 25%
+### Trabajo en clase, Trabajo No. 4, 20%
 
 TODO

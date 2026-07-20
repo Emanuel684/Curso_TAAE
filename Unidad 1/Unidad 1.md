@@ -1093,6 +1093,8 @@ Particularmente útil para:
 | Chi-Cuadrado       | Diferencia entre frecuencias observadas y esperadas | Principalmente discreta |
 | Kolmogorov-Smirnov | Diferencia entre distribuciones acumuladas          | Principalmente continua |
 
+Miremos todos estos ejemplos en el libro [prob_empirica_a_parametrica.pynb](./prob_empirica_a_parametrica.ipynb)
+
 ---
 
 #### Reflexión
