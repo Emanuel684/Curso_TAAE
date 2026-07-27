@@ -51,6 +51,8 @@ $$
 
 Esta expresión representa la probabilidad de que ocurra el evento (A) cuando sabemos que el evento (B) ya ocurrió.
 
+Mire por favor este libro: [prob_condicional.ipynb](./prob_condicional.ipynb)
+
 ---
 
 ### Derivación del Teorema de Bayes
