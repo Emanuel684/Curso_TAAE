@@ -48,15 +48,11 @@ TODO
 - Definición [Ver este contenido](../Unidad%202/Unidad%202.md#Definición)
 - Mirar la aplicación interesante en el juego del ahorcado [Ver este contenido](../Unidad%202/Juego_de_ahorcado_Entropia.ipynb)
 
-### Trabajo en clase, Tarea No. 2, 5%
-
-TODO
-
 ## Clase No. 6, Inferencia Bayesiana y aprendizaje
 - Maximum likelyhood y su relación con la inferencia bayesiana [Ver este contenido](../Unidad%202/Unidad%202.md#Likelihood-y-Maximum-Likelihood)
 - Estimación por Naive Bayes, Smoothing y soporte probabilístico [Ver este contenido](../Unidad%202/Unidad%202.md#Clasificador-Bayesiano-Naive)
   
-### Trabajo en clase
+### Trabajo en clase, Tarea No. 2, 5%
 
 TODO
 
