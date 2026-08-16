@@ -1,0 +1,915 @@
+Edad;SEXO;ALERTASROJAS;ALERTASNARANJAS;ALERTASACADEMICAS;ALERTASMANUALES;CAL.PSICOSOCIAL;CAL.FAMILIAR;CAL.SOCIECONOMICO;CAL.ACADEMICO;CRÉDITOS REPROBADOS;CRÉDITOS APROBADOS;CRÉDITOS CANCELADOS;CREDITOS INTENTADOS;PROMEDIO GLOBAL;ULTIMO ESTADO ACADÉMICO;APOYOS ECONÓMICO EN MATRICULA;APOYO INSTITUCIONAL;DESERSIÓN
+21;M;14;17;0;0;10,31;28,21;22,37;10,61;3;65;0;68;3,832058824;Estado académico normal;SI;SI;NO
+21;F;14;15;0;0;5,15;28,21;22,37;15,15;15;84;9;108;3,614646465;Estado académico normal;SI;SI;NO
+19;F;13;19;0;0;8,25;28,21;21,05;15,15;6;8;3;17;2,855;Advertencia académica;SI;SI;SI
+20;F;12;18;0;0;9,28;35,9;15,79;10,61;3;44;3;50;3,80893617;Estado académico normal;SI;NO;NO
+20;F;12;14;0;0;10,31;17,95;23,68;4,55;0;149;4;153;4,202684564;Estado académico normal;SI;SI;NO
+21;F;12;17;0;0;5,15;20,51;30,26;7,58;3;57;21;81;3,569;Estado académico normal;SI;SI;NO
+22;M;12;18;0;0;14,43;25,64;14,47;10,61;12;5;3;20;2,501176471;Suspensión académica;SI;NO;SI
+18;F;11;19;0;0;10,31;20,51;17,11;15,15;0;51;0;51;4,01745098;Estado académico normal;SI;NO;NO
+21;F;10;18;0;0;7,22;28,21;19,74;7,58;0;149;0;149;4,28033557;Estado académico normal;NO;SI;NO
+20;F;10;9;0;0;2,06;12,82;15,79;9,09;0;95;3;98;3,968736842;Estado académico normal;SI;SI;NO
+18;M;9;21;0;0;10,31;17,95;13,16;18,18;6;11;0;17;3,229411765;Estado académico normal;SI;NO;SI
+21;F;9;20;0;0;10,31;20,51;21,05;6,06;15;95;18;128;3,747090909;Estado académico normal;SI;NO;NO
+22;M;8;14;0;0;3,09;17,95;19,74;9,09;15;85;55;155;3,5235;Advertencia académica;SI;SI;NO
+20;F;8;16;0;0;4,12;12,82;25;6,06;0;85;0;85;4,138705882;Estado académico normal;NO;SI;NO
+18;F;8;19;0;0;4,12;23,08;14,47;16,67;0;52;6;58;3,988653846;Estado académico normal;SI;NO;NO
+21;F;7;18;0;0;6,19;23,08;14,47;9,09;0;116;6;122;3,980517241;Estado académico normal;SI;SI;NO
+20;M;7;12;0;0;11,34;23,08;5,26;4,55;4;29;28;61;3,491818182;Estado académico normal;NO;SI;NO
+18;F;7;7;0;0;2,06;10,26;18,42;1,52;0;17;0;17;3,747647059;Estado académico normal;SI;SI;NO
+18;F;7;19;0;0;10,31;10,26;17,11;9,09;3;40;6;49;3,700697674;Estado académico normal;SI;SI;NO
+20;M;6;8;0;0;2,06;2,56;17,11;6,06;0;89;0;89;4,325280899;Estado académico normal;SI;SI;NO
+21;F;6;13;0;0;5,15;23,08;11,84;3,03;3;149;0;152;4,144736842;Estado académico normal;SI;SI;NO
+19;F;6;10;0;0;2,06;2,56;17,11;3,03;0;34;0;34;3,941176471;Estado académico normal;SI;NO;NO
+21;M;5;14;0;0;3,09;15,38;9,21;12,12;4;37;25;66;3,851707317;Estado académico normal;NO;SI;NO
+18;F;5;11;0;0;4,12;5,13;13,16;4,55;0;50;0;50;4,1602;Estado académico normal;SI;NO;NO
+19;F;5;10;0;0;3,09;10,26;10,53;7,58;0;37;0;37;4,281621622;Estado académico normal;SI;SI;NO
+20;F;5;18;0;0;3,09;10,26;22,37;6,06;12;112;0;124;3,887177419;Estado académico normal;SI;SI;NO
+18;F;4;14;0;0;4,12;10,26;10,53;9,09;0;51;0;51;4,178431373;Estado académico normal;SI;NO;NO
+19;M;4;11;0;0;1,03;10,26;6,58;13,64;6;6;5;17;3,024166667;Estado académico normal;NO;SI;SI
+18;M;4;8;0;0;2,06;10,26;2,63;12,12;2;0;0;2;1,175;Estado académico normal;SI;NO;NO
+18;F;4;11;0;0;3,09;5,13;14,47;4,55;3;11;3;17;3,336428571;Estado académico normal;SI;SI;NO
+18;F;4;11;0;0;3,09;10,26;11,84;4,55;0;50;0;50;4,2666;Estado académico normal;SI;NO;NO
+21;F;4;10;0;0;2,06;12,82;13,16;1,52;3;152;6;161;4,106645161;Estado académico normal;SI;SI;NO
+19;M;4;10;0;0;4,12;5,13;13,16;3,03;0;85;0;85;4,448352941;Estado académico normal;SI;NO;NO
+21;M;4;15;0;0;6,19;15,38;10,53;4,55;0;47;0;47;3,975957447;Estado académico normal;NO;NO;NO
+21;F;3;9;0;0;0;7,69;13,16;3,03;0;164;3;167;4,297865854;Estado académico normal;SI;SI;NO
+18;F;3;9;0;0;2,06;7,69;11,84;1,52;0;50;0;50;4,6126;Estado académico normal;SI;NO;NO
+17;F;3;11;0;0;7,22;5,13;5,26;6,06;0;17;0;17;3,404117647;Estado académico normal;NO;SI;NO
+19;F;3;9;0;0;3,09;2,56;11,84;3,03;0;31;0;31;3,997419355;Estado académico normal;SI;NO;NO
+18;M;3;5;0;0;0;0;0;0;0;30;0;30;3,828666667;Estado académico normal;SI;NO;SI
+17;M;3;19;0;0;7,22;12,82;7,89;10,61;5;45;0;50;3,7448;Estado académico normal;SI;NO;NO
+18;M;3;6;0;0;0;0;0;0;2;58;2;62;3,9215;Estado académico normal;SI;NO;NO
+17;M;3;8;0;0;2,06;12,82;3,95;6,06;2;18;0;20;3,266;Estado académico normal;SI;SI;NO
+18;M;3;7;0;0;4,12;7,69;3,95;4,55;0;17;0;17;3,706470588;Estado académico normal;NO;SI;NO
+18;F;3;13;0;0;5,15;10,26;5,26;9,09;0;9;3;12;3,491111111;Estado académico normal;NO;SI;NO
+18;F;2;11;0;0;2,06;5,13;10,53;4,55;3;14;0;17;3,407058824;Estado académico normal;SI;SI;NO
+19;F;2;8;0;0;2,06;2,56;5,26;7,58;6;32;3;41;3,910526316;Estado académico normal;SI;NO;NO
+19;F;2;14;0;0;4,12;2,56;10,53;7,58;0;34;0;34;4,020882353;Estado académico normal;NO;NO;NO
+22;M;2;13;0;0;2,06;7,69;1,32;16,67;0;34;0;34;3,898823529;Estado académico normal;NO;NO;NO
+19;M;2;8;0;0;3,09;2,56;7,89;3,03;9;40;3;52;3,371836735;Estado académico normal;NO;NO;NO
+19;M;2;14;0;0;2,06;10,26;10,53;6,06;0;34;0;34;3,807352941;Estado académico normal;SI;NO;NO
+18;F;2;9;0;0;3,09;2,56;7,89;4,55;0;34;0;34;3,756176471;Estado académico normal;SI;NO;NO
+17;F;2;9;0;0;3,09;2,56;9,21;3,03;0;17;0;17;3,982941176;Estado académico normal;SI;SI;NO
+20;M;2;10;0;0;2,06;7,69;5,26;7,58;3;41;4;48;3,519318182;Estado académico normal;NO;NO;NO
+18;F;2;8;0;0;0;0;0;0;3;45;0;48;4,122916667;Estado académico normal;SI;SI;NO
+19;M;2;11;0;0;0;7,69;6,58;10,61;0;50;0;50;4,239;Estado académico normal;SI;NO;NO
+17;F;1;6;0;0;7,22;12,82;17,11;0;0;17;0;17;3,678235294;Estado académico normal;SI;SI;NO
+18;M;1;11;0;0;3,09;2,56;6,58;6,06;1;14;2;17;3,547333333;Estado académico normal;SI;SI;NO
+19;F;1;9;0;0;1,03;5,13;6,58;4,55;0;71;3;74;3,759577465;Estado académico normal;SI;SI;NO
+18;M;1;10;0;0;3,09;5,13;3,95;6,06;4;4;9;17;3,07125;Estado académico normal;NO;SI;NO
+17;F;1;4;0;0;2,06;0;1,32;4,55;3;9;3;15;3,294166667;Estado académico normal;SI;SI;NO
+20;M;1;7;0;0;0;2,56;3,95;7,58;0;52;3;55;3,705;Estado académico normal;SI;SI;NO
+19;F;1;10;0;0;3,09;2,56;5,26;6,06;0;47;3;50;4,138510638;Estado académico normal;NO;SI;NO
+18;F;1;5;0;0;0;0;6,58;3,03;0;34;0;34;4,531176471;Estado académico normal;SI;NO;NO
+19;M;1;22;0;0;9,28;7,69;6,58;10,61;6;8;3;17;3,281428571;Estado académico normal;NO;SI;NO
+18;F;1;6;0;0;1,03;5,13;3,95;3,03;0;60;0;60;3,732333333;Estado académico normal;SI;NO;NO
+18;M;1;11;0;0;3,09;0;3,95;10,61;3;43;3;49;3,519130435;Estado académico normal;NO;NO;NO
+18;M;1;6;0;0;3,09;2,56;3,95;1,52;7;34;6;47;3,260487805;Advertencia académica;SI;NO;NO
+20;F;1;12;0;0;1,03;10,26;7,89;4,55;0;111;0;111;4,062522523;Estado académico normal;SI;SI;NO
+18;F;1;11;0;0;3,09;2,56;0;13,64;0;19;0;19;3,808421053;Estado académico normal;SI;SI;NO
+17;M;1;3;0;0;1,03;2,56;2,63;1,52;7;14;0;21;3,156666667;Advertencia académica;SI;SI;NO
+18;F;0;15;0;0;5,15;2,56;5,26;7,58;3;14;0;17;3,304117647;Estado académico normal;NO;SI;NO
+19;M;0;6;0;0;1,03;0;2,63;4,55;0;68;0;68;4,241323529;Estado académico normal;NO;SI;SI
+18;N;0;9;0;0;2,06;5,13;3,95;3,03;0;17;0;17;3,77;Estado académico normal;SI;SI;NO
+19;M;0;7;0;0;1,03;0;6,58;1,52;1;46;3;50;3,68212766;Estado académico normal;SI;NO;NO
+17;M;0;5;0;0;0;2,56;3,95;1,52;0;17;0;17;3,828823529;Estado académico normal;SI;SI;NO
+17;M;0;7;0;0;7,22;12,82;17,11;0;0;17;0;17;3,387647059;Estado académico normal;SI;SI;NO
+19;F;16;17;0;0;13,4;35,9;23,68;6,06;12;34;33;79;3,471956522;Estado académico normal;SI;SI;NO
+27;M;15;28;0;0;16,49;20,51;18,42;30,3;24;114;42;180;3,158550725;Estado académico normal;NO;SI;NO
+20;F;15;17;0;0;11,34;25,64;23,68;12,12;0;65;6;71;4,067538462;Estado académico normal;SI;SI;NO
+19;M;14;18;0;0;11,34;23,08;26,32;7,58;0;82;3;85;3,94097561;Estado académico normal;SI;SI;NO
+21;F;14;33;0;0;14,43;15,38;28,95;28,79;34;78;44;156;3,207321429;Estado académico normal;SI;SI;NO
+18;M;13;18;0;0;4,12;17,95;34,21;10,61;3;13;14;30;3,44875;Estado académico normal;SI;SI;SI
+19;F;12;23;0;0;15,46;30,77;17,11;10,61;2;37;6;45;3,810769231;Estado académico normal;SI;SI;NO
+19;M;12;26;0;0;10,31;12,82;22,37;27,27;5;85;28;118;3,832777778;Estado académico normal;SI;NO;NO
+21;M;12;20;0;0;11,34;15,38;26,32;10,61;24;66;30;120;3,214222222;Estado académico normal;SI;SI;NO
+17;M;12;16;0;0;17,53;15,38;15,79;7,58;0;16;0;16;3,7675;Estado académico normal;SI;SI;NO
+19;F;12;21;0;0;13,4;17,95;19,74;15,15;13;94;8;115;3,581869159;Estado académico normal;SI;SI;NO
+21;M;12;16;0;0;8,25;15,38;17,11;18,18;4;89;0;93;3,561182796;Estado académico normal;SI;SI;NO
+19;M;11;13;0;0;9,28;10,26;14,47;16,67;5;73;5;83;3,509230769;Estado académico normal;SI;SI;NO
+21;F;11;24;0;0;11,34;17,95;17,11;22,73;14;69;21;104;3,590361446;Advertencia académica;SI;SI;NO
+21;M;11;18;0;0;7,22;17,95;21,05;15,15;15;76;12;103;3,62010989;Estado académico normal;SI;SI;NO
+20;M;11;17;0;0;4,12;12,82;30,26;10,61;15;66;6;87;3,319876543;Advertencia académica;NO;SI;NO
+19;M;10;20;0;0;16,49;17,95;5,26;19,7;0;58;0;58;3,824310345;Estado académico normal;NO;SI;NO
+20;M;10;18;0;0;8,25;10,26;22,37;13,64;0;85;3;88;4,075176471;Estado académico normal;SI;SI;NO
+19;F;10;22;0;0;14,43;17,95;18,42;10,61;7;49;26;82;3,549107143;Estado académico normal;SI;SI;NO
+20;M;10;24;0;0;9,28;17,95;17,11;22,73;18;64;34;116;3,268902439;Primer reingreso;SI;SI;NO
+20;M;10;17;0;0;13,4;15,38;14,47;10,61;10;70;7;87;3,544625;Advertencia académica;NO;SI;NO
+19;F;10;21;0;0;11,34;28,21;13,16;15,15;10;59;12;81;3,484492754;Estado académico normal;SI;SI;NO
+21;M;10;15;0;0;6,19;23,08;21,05;6,06;0;150;0;150;4,031533333;Estado académico normal;SI;SI;NO
+22;M;9;16;0;0;2,06;17,95;15,79;7,58;31;86;39;156;3,437435897;Advertencia académica;SI;SI;NO
+17;M;9;9;0;0;6,19;7,69;19,74;4,55;0;16;0;16;3,636875;Estado académico normal;NO;SI;NO
+20;F;9;19;0;0;9,28;25,64;11,84;13,64;0;10;9;19;4,187;Estado académico normal;NO;SI;NO
+21;M;9;16;0;0;10,31;20,51;14,47;7,58;12;98;23;133;3,753545455;Advertencia académica;SI;SI;NO
+20;M;9;16;0;0;11,34;15,38;14,47;9,09;0;75;10;85;3,4648;Estado académico normal;SI;SI;NO
+17;F;9;12;0;0;4,12;5,13;22,37;10,61;0;16;0;16;3,8875;Estado académico normal;NO;NO;NO
+19;M;8;16;0;0;1,03;30,77;18,42;7,58;12;27;10;49;3,258974359;Advertencia académica;SI;SI;SI
+20;M;8;11;0;0;6,19;15,38;14,47;4,55;0;110;0;110;4,189636364;Estado académico normal;NO;NO;NO
+21;M;8;17;0;0;7,22;10,26;14,47;7,58;13;119;14;146;3,693939394;Estado académico normal;SI;SI;NO
+18;M;8;14;0;0;11,34;10,26;15,79;4,55;21;12;17;50;2,550909091;Advertencia académica;SI;SI;NO
+24;M;8;11;0;0;1,03;15,38;17,11;3,03;20;150;19;189;3,639117647;Estado académico normal;SI;SI;NO
+19;M;8;19;0;0;4,12;15,38;18,42;16,67;2;76;3;81;3,728974359;Estado académico normal;SI;SI;NO
+27;M;8;19;0;0;5,15;15,38;15,79;18,18;17;100;43;160;3,292136752;Primer reingreso;SI;NO;NO
+18;M;8;17;0;0;9,28;12,82;18,42;7,58;5;27;2;34;3,28125;Estado académico normal;NO;NO;NO
+21;M;8;8;0;0;2,06;5,13;13,16;15,15;17;42;50;109;3,121355932;Segundo reingreso;SI;SI;NO
+22;M;8;13;0;0;5,15;10,26;23,68;3,03;2;149;11;162;3,972980132;Estado académico normal;SI;NO;NO
+21;M;8;28;0;0;11,34;15,38;17,11;21,21;16;53;40;109;3,142463768;Segunda suspensión académica;SI;SI;SI
+20;M;8;20;0;0;11,34;7,69;14,47;16,67;30;54;9;93;2,955238095;Suspensión académica;SI;SI;NO
+22;F;8;14;0;0;1,03;15,38;25;6,06;11;135;3;149;3,701780822;Estado académico normal;SI;SI;NO
+20;M;7;17;0;0;5,15;10,26;17,11;13,64;7;41;9;57;3,601458333;Estado académico normal;SI;NO;NO
+19;M;7;4;0;0;4,12;7,69;11,84;3,03;0;82;0;82;4,540365854;Estado académico normal;SI;NO;NO
+22;M;7;21;0;0;10,31;10,26;19,74;9,09;7;0;0;7;0,931428571;Advertencia académica;NO;SI;NO
+21;M;7;17;0;0;7,22;12,82;17,11;12,12;9;134;10;153;3,812237762;Estado académico normal;SI;SI;NO
+21;M;7;13;0;0;9,28;15,38;13,16;3,03;11;91;2;104;3,566666667;Estado académico normal;SI;SI;NO
+18;M;7;16;0;0;3,09;12,82;15,79;15,15;4;29;0;33;3,385151515;Estado académico normal;SI;NO;NO
+21;F;7;14;0;0;5,15;15,38;17,11;6,06;3;134;0;137;3,796934307;Estado académico normal;SI;NO;NO
+19;F;7;27;0;0;13,4;2,56;11,84;7,58;3;45;31;79;3,674375;Estado académico normal;NO;SI;NO
+18;F;7;9;0;0;2,06;7,69;17,11;3,03;0;50;0;50;3,8088;Estado académico normal;SI;SI;NO
+18;M;7;9;0;0;9,28;10,26;6,58;7,58;0;16;0;16;3,89625;Estado académico normal;SI;SI;NO
+20;M;7;13;0;0;2,06;7,69;17,11;3,03;2;106;7;115;3,998055556;Estado académico normal;SI;SI;NO
+21;M;7;16;0;0;5,15;7,69;15,79;15,15;0;75;8;83;3,8288;Estado académico normal;SI;SI;NO
+18;M;7;16;0;0;13,4;12,82;5,26;12,12;0;46;3;49;3,802608696;Estado académico normal;NO;NO;NO
+18;M;7;15;0;0;3,09;7,69;11,84;9,09;0;49;0;49;4,587142857;Estado académico normal;SI;SI;NO
+19;F;7;15;0;0;7,22;12,82;11,84;12,12;15;91;11;117;3,458113208;Estado académico normal;SI;NO;NO
+19;F;7;13;0;0;6,19;5,13;15,79;10,61;2;77;2;81;3,943164557;Estado académico normal;SI;NO;NO
+20;M;7;23;0;0;6,19;20,51;14,47;18,18;4;84;17;105;3,435113636;Advertencia académica;SI;SI;NO
+18;M;7;7;0;0;2,06;20,51;7,89;7,58;4;6;6;16;3,349;Estado académico normal;NO;SI;NO
+17;M;6;12;0;0;3,09;17,95;15,79;3,03;0;16;0;16;3,905625;Estado académico normal;SI;SI;NO
+19;F;6;17;0;0;11,34;5,13;7,89;15,15;6;4;6;16;2,938;Advertencia académica;NO;NO;SI
+17;F;6;17;0;0;15,46;5,13;9,21;7,58;13;0;3;16;1,760769231;Advertencia académica;NO;SI;SI
+18;F;6;12;0;0;3,09;7,69;15,79;9,09;3;23;3;29;3,327692308;Estado académico normal;SI;SI;NO
+18;F;6;11;0;0;5,15;17,95;10,53;4,55;0;7;9;16;3,784285714;Estado académico normal;SI;NO;NO
+21;M;6;19;0;0;3,09;5,13;22,37;13,64;14;63;51;128;3,455584416;Estado académico normal;SI;SI;NO
+19;M;6;14;0;0;6,19;7,69;15,79;7,58;10;68;5;83;3,464615385;Estado académico normal;SI;SI;NO
+21;F;6;11;0;0;2,06;12,82;15,79;6,06;27;103;24;154;3,423615385;Estado académico normal;SI;SI;NO
+22;F;6;17;0;0;5,15;7,69;17,11;12,12;15;104;31;150;3,456554622;Estado académico normal;SI;SI;NO
+18;F;6;14;0;0;7,22;12,82;7,89;12,12;7;34;11;52;3,464146341;Estado académico normal;NO;NO;NO
+20;M;6;11;0;0;4,12;7,69;18,42;3,03;2;84;0;86;3,75;Estado académico normal;SI;SI;NO
+18;M;6;8;0;0;3,09;0;18,42;4,55;0;49;0;49;4,016938776;Estado académico normal;SI;SI;NO
+24;F;6;18;0;0;3,09;10,26;21,05;10,61;69;132;30;231;3,144029851;Advertencia académica;SI;SI;NO
+19;M;6;17;0;0;4,12;25,64;13,16;7,58;0;49;0;49;4,221836735;Estado académico normal;SI;NO;NO
+17;M;6;14;0;0;3,09;20,51;15,79;4,55;0;16;0;16;3,750625;Estado académico normal;SI;SI;NO
+19;M;6;16;0;0;6,19;10,26;17,11;7,58;0;65;0;65;4,036307692;Estado académico normal;SI;NO;NO
+19;F;6;10;0;0;4,12;12,82;11,84;6,06;0;56;5;61;3,694821429;Estado académico normal;SI;SI;NO
+16;F;6;15;0;0;6,19;5,13;19,74;6,06;0;16;0;16;4,45625;Estado académico normal;SI;SI;NO
+18;F;6;15;0;0;5,15;15,38;15,79;6,06;0;32;0;32;3,588125;Estado académico normal;SI;SI;NO
+20;M;6;16;0;0;6,19;15,38;14,47;7,58;2;78;6;86;3,644875;Estado académico normal;SI;SI;NO
+18;F;6;9;0;0;6,19;10,26;13,16;1,52;0;32;0;32;4,060625;Estado académico normal;SI;NO;SI
+22;M;6;14;0;0;5,15;15,38;10,53;6,06;3;139;0;142;3,830211268;Estado académico normal;SI;SI;NO
+19;M;5;12;0;0;4,12;7,69;13,16;7,58;0;82;3;85;3,999634146;Estado académico normal;SI;NO;NO
+17;M;5;14;0;0;12,37;7,69;6,58;6,06;0;13;3;16;3,539230769;Estado académico normal;SI;SI;NO
+22;M;5;10;0;0;7,22;7,69;5,26;9,09;0;35;27;62;3,568285714;Estado académico normal;SI;SI;NO
+22;M;5;12;0;0;5,15;7,69;11,84;7,58;6;7;3;16;2,985384615;Advertencia académica;NO;NO;NO
+20;M;5;13;0;0;4,12;2,56;13,16;12,12;21;72;17;110;3,437634409;Estado académico normal;SI;SI;NO
+21;M;5;13;0;0;6,19;7,69;13,16;6,06;9;72;9;90;3,478024691;Estado académico normal;NO;NO;NO
+20;M;5;12;0;0;0;0;18,42;1,52;7;102;12;121;3,777155963;Estado académico normal;SI;SI;NO
+20;M;5;12;0;0;5,15;7,69;10,53;9,09;20;61;11;92;3,288641975;Estado académico normal;SI;SI;NO
+20;M;5;12;0;0;4,12;5,13;18,42;3,03;2;84;12;98;3,970116279;Estado académico normal;SI;SI;NO
+17;M;5;18;0;0;13,4;5,13;3,95;15,15;0;32;0;32;3,44625;Estado académico normal;NO;NO;NO
+18;M;5;18;0;0;4,12;25,64;6,58;13,64;0;42;6;48;4;Estado académico normal;SI;NO;NO
+17;M;5;11;0;0;1,03;7,69;15,79;7,58;0;54;0;54;3,908888889;Estado académico normal;SI;SI;NO
+19;F;5;8;0;0;4,12;5,13;11,84;4,55;3;62;6;71;3,777692308;Estado académico normal;SI;SI;NO
+22;M;5;9;0;0;2,06;17,95;9,21;4,55;4;119;0;123;3,866341463;Estado académico normal;NO;SI;NO
+23;M;5;17;0;0;4,12;5,13;5,26;25,76;0;16;11;27;4,175;Estado académico normal;SI;SI;NO
+22;M;5;12;0;0;7,22;15,38;3,95;9,09;6;14;12;32;2,9325;Advertencia académica;NO;SI;NO
+18;M;5;10;0;0;1,03;15,38;13,16;4,55;3;28;0;31;3,619677419;Estado académico normal;SI;SI;NO
+19;M;5;13;0;0;2,06;17,95;15,79;3,03;3;41;2;46;3,6625;Estado académico normal;SI;NO;NO
+18;M;5;10;0;0;6,19;12,82;6,58;6,06;0;16;0;16;3,783125;Estado académico normal;NO;NO;NO
+19;F;5;10;0;0;4,12;5,13;15,79;3,03;0;79;0;79;4,312151899;Estado académico normal;SI;NO;NO
+19;M;5;15;0;0;5,15;7,69;14,47;9,09;25;24;14;63;3,02122449;Advertencia académica;SI;SI;NO
+19;M;4;21;0;0;4,12;15,38;14,47;12,12;0;91;0;91;4,142527473;Estado académico normal;SI;SI;NO
+18;M;4;10;0;0;4,12;10,26;9,21;4,55;0;12;0;12;3,716666667;Estado académico normal;NO;SI;NO
+17;F;4;8;0;0;1,03;2,56;15,79;3,03;0;16;0;16;4,765625;Estado académico normal;SI;NO;NO
+18;F;4;9;0;0;3,09;10,26;9,21;4,55;15;22;8;45;3,092162162;Estado académico normal;SI;NO;NO
+18;M;4;14;0;0;7,22;7,69;10,53;6,06;0;33;0;33;3,843939394;Estado académico normal;NO;NO;NO
+22;M;4;17;0;0;8,25;7,69;10,53;9,09;16;25;9;50;3,107317073;Suspensión académica;SI;SI;SI
+24;F;4;15;0;0;4,12;15,38;10,53;7,58;17;126;19;162;3,424615385;Advertencia académica;NO;NO;NO
+18;M;4;17;0;0;4,12;12,82;14,47;7,58;5;11;0;16;3,0425;Estado académico normal;SI;NO;NO
+21;M;4;15;0;0;3,09;5,13;14,47;10,61;8;44;5;57;3,348461538;Advertencia académica;SI;SI;NO
+21;M;4;14;0;0;5,15;12,82;13,16;3,03;6;105;0;111;3,800990991;Estado académico normal;NO;NO;NO
+17;M;4;13;0;0;5,15;7,69;13,16;4,55;0;16;0;16;4,590625;Estado académico normal;SI;SI;NO
+23;F;4;15;0;0;7,22;7,69;7,89;10,61;3;153;0;156;3,890705128;Estado académico normal;SI;NO;SI
+18;M;4;10;0;0;5,15;2,56;13,16;3,03;7;29;6;42;3,090833333;Advertencia académica;SI;NO;NO
+19;M;4;10;0;0;5,15;7,69;9,21;4,55;0;44;3;47;3,946818182;Estado académico normal;SI;NO;NO
+18;M;4;15;0;0;4,12;12,82;11,84;3,03;0;16;0;16;4,28;Estado académico normal;SI;SI;NO
+19;M;4;10;0;0;6,19;12,82;3,95;6,06;0;51;0;51;4,346470588;Estado académico normal;SI;NO;NO
+19;M;4;19;0;0;8,25;12,82;13,16;6,06;0;49;0;49;4,311632653;Estado académico normal;NO;SI;NO
+19;M;4;15;0;0;11,34;5,13;9,21;4,55;7;3;6;16;2,768;Advertencia académica;NO;SI;SI
+20;M;4;12;0;0;1,03;7,69;14,47;7,58;0;79;3;82;3,963291139;Estado académico normal;SI;SI;NO
+21;M;4;22;0;0;7,22;12,82;10,53;15,15;4;82;22;108;3,438837209;Estado académico normal;NO;SI;NO
+20;M;4;14;0;0;2,06;10,26;7,89;15,15;0;22;19;41;3,587727273;Estado académico normal;NO;NO;NO
+19;F;4;9;0;0;2,06;7,69;13,16;3,03;0;82;0;82;4,485609756;Estado académico normal;SI;SI;NO
+18;M;4;11;0;0;5,15;0;5,26;15,15;0;16;0;16;3,515;Estado académico normal;NO;SI;NO
+18;F;3;9;0;0;5,15;2,56;9,21;3,03;12;33;6;51;3,222222222;Advertencia académica;SI;NO;NO
+20;F;3;7;0;0;3,09;0;9,21;4,55;0;65;0;65;4,033076923;Estado académico normal;SI;NO;NO
+19;M;3;5;0;0;0;5,13;6,58;6,06;0;47;13;60;3,646595745;Estado académico normal;NO;SI;NO
+19;F;3;6;0;0;3,09;0;2,63;10,61;13;4;6;23;1,911764706;Suspensión académica;NO;NO;SI
+17;M;3;14;0;0;2,06;12,82;9,21;9,09;0;17;0;17;3,73;Estado académico normal;SI;NO;NO
+17;M;3;14;0;0;5,15;2,56;6,58;13,64;9;1;5;15;1,688;Advertencia académica;NO;SI;SI
+19;M;3;4;0;0;2,06;0;5,26;6,06;5;21;18;44;3,346923077;Estado académico normal;NO;SI;NO
+23;M;3;14;0;0;0;10,26;17,11;4,55;11;124;12;147;3,589555556;Estado académico normal;SI;SI;NO
+18;M;3;7;0;0;1,03;2,56;6,58;9,09;1;18;14;33;3,962105263;Estado académico normal;SI;NO;SI
+18;M;3;10;0;0;1,03;7,69;10,53;6,06;2;22;8;32;3,233333333;Estado académico normal;NO;NO;SI
+19;M;3;6;0;0;1,03;12,82;5,26;3,03;0;16;0;16;3,9875;Estado académico normal;SI;SI;NO
+19;M;3;13;0;0;1,03;10,26;9,21;10,61;17;14;0;31;3,044193548;Advertencia académica;NO;NO;SI
+17;F;3;7;0;0;7,22;0;2,63;6,06;3;13;0;16;3,4175;Estado académico normal;NO;SI;NO
+19;M;3;11;0;0;2,06;2,56;11,84;7,58;2;36;11;49;3,426052632;Estado académico normal;SI;NO;NO
+17;F;3;6;0;0;0;15,38;5,26;3,03;0;13;3;16;3,829230769;Estado académico normal;SI;SI;NO
+18;F;3;8;0;0;1,03;5,13;11,84;3,03;1;24;2;27;4,3512;Estado académico normal;SI;SI;NO
+25;F;3;13;0;0;2,06;5,13;11,84;9,09;5;66;3;74;3,602535211;Estado académico normal;SI;NO;NO
+21;M;3;14;0;0;2,06;12,82;7,89;10,61;7;3;6;16;2,632;Advertencia académica;NO;SI;NO
+19;M;3;4;0;0;0;0;0;0;3;52;6;61;3,853636364;Estado académico normal;SI;NO;NO
+20;F;3;12;0;0;9,28;0;3,95;9,09;0;49;0;49;4,372040816;Estado académico normal;NO;NO;NO
+18;M;3;14;0;0;8,25;5,13;5,26;9,09;4;6;6;16;2,583;Advertencia académica;NO;SI;SI
+18;M;3;11;0;0;2,06;12,82;9,21;4,55;0;16;0;16;3,8525;Estado académico normal;SI;SI;NO
+18;M;3;13;0;0;4,12;5,13;13,16;4,55;10;3;2;15;2,579230769;Advertencia académica;SI;NO;SI
+17;F;2;7;0;0;2,06;7,69;5,26;3,03;10;0;6;16;1,411;Advertencia académica;NO;SI;NO
+17;M;2;14;0;0;3,09;7,69;10,53;6,06;0;49;0;49;4,163469388;Estado académico normal;SI;NO;NO
+18;M;2;10;0;0;2,06;2,56;6,58;9,09;0;70;0;70;3,691142857;Estado académico normal;NO;SI;NO
+18;M;2;12;0;0;5,15;10,26;5,26;4,55;1;25;0;26;3,893461538;Estado académico normal;SI;SI;NO
+19;F;2;14;0;0;3,09;12,82;7,89;6,06;11;2;3;16;1,997692308;Advertencia académica;SI;SI;SI
+19;M;2;7;0;0;4,12;0;5,26;4,55;8;27;8;43;3,148857143;Advertencia académica;NO;SI;NO
+18;F;2;11;0;0;6,19;2,56;5,26;6,06;0;13;3;16;3,44;Estado académico normal;SI;SI;NO
+24;M;2;10;0;0;5,15;0;7,89;4,55;0;33;0;33;4,16030303;Estado académico normal;NO;NO;NO
+19;M;2;7;0;0;1,03;5,13;7,89;3,03;12;9;8;29;2,982857143;Advertencia académica;SI;SI;NO
+19;M;2;15;0;0;4,12;5,13;7,89;10,61;3;41;6;50;3,969772727;Estado académico normal;SI;NO;SI
+19;F;2;11;0;0;1,03;2,56;14,47;3,03;6;98;0;104;3,737596154;Estado académico normal;NO;NO;NO
+18;M;2;10;0;0;4,12;7,69;5,26;4,55;16;8;6;30;2,790416667;Suspensión académica;NO;SI;SI
+18;M;2;7;0;0;8,25;10,26;14,47;4,55;22;21;5;48;2,904418605;Suspensión académica;SI;SI;SI
+20;M;2;12;0;0;3,09;5,13;9,21;6,06;28;48;21;97;2,966710526;Primer reingreso;NO;SI;SI
+23;M;2;11;0;0;0;2,56;13,16;6,06;2;92;3;97;3,912659574;Estado académico normal;SI;SI;NO
+19;F;2;11;0;0;5,15;0;9,21;4,55;3;42;9;54;3,608666667;Estado académico normal;NO;NO;NO
+17;M;2;18;0;0;8,25;12,82;6,58;6,06;4;3;9;16;3,044285714;Estado académico normal;NO;SI;NO
+17;M;2;13;0;0;4,12;2,56;7,89;9,09;7;3;6;16;2,484;Advertencia académica;NO;SI;NO
+18;F;2;11;0;0;5,15;5,13;1,32;10,61;6;7;3;16;2,896153846;Advertencia académica;SI;SI;NO
+19;F;1;7;0;0;2,06;2,56;3,95;4,55;3;28;0;31;3,390322581;Estado académico normal;NO;NO;NO
+18;M;1;15;0;0;3,09;2,56;9,21;9,09;0;49;0;49;4,140204082;Estado académico normal;NO;NO;NO
+18;M;1;7;0;0;0;2,56;7,89;3,03;0;16;0;16;4,515625;Estado académico normal;SI;SI;NO
+18;M;1;10;0;0;2,06;5,13;7,89;3,03;4;11;0;15;3,554;Estado académico normal;SI;NO;NO
+19;M;1;5;0;0;0;7,69;3,95;1,52;3;42;0;45;3,716444444;Estado académico normal;NO;NO;NO
+20;M;1;10;0;0;3,09;0;9,21;3,03;6;10;0;16;3,43;Estado académico normal;NO;SI;NO
+19;F;1;9;0;0;0;5,13;3,95;9,09;6;10;3;19;3,184375;Estado académico normal;SI;SI;NO
+19;M;1;13;0;0;5,15;0;5,26;9,09;0;16;0;16;3,39;Estado académico normal;NO;SI;NO
+22;M;1;9;0;0;1,03;0;3,95;10,61;0;17;16;33;3,625882353;Estado académico normal;NO;SI;SI
+19;M;1;8;0;0;3,09;7,69;1,32;4,55;0;16;0;16;3,950625;Estado académico normal;SI;SI;NO
+21;M;1;6;0;0;1,03;0;5,26;4,55;14;10;6;30;3,120833333;Estado académico normal;SI;NO;NO
+19;M;1;5;0;0;1,03;7,69;2,63;1,52;6;22;3;31;3,285357143;Estado académico normal;NO;SI;NO
+17;F;1;12;0;0;2,06;7,69;2,63;10,61;8;14;5;27;3,332272727;Advertencia académica;SI;SI;NO
+19;M;1;7;0;0;2,06;0;6,58;3,03;20;22;3;45;3,017857143;Primer reingreso;SI;NO;SI
+19;M;1;9;0;0;0;0;0;0;8;6;27;41;2,115714286;Segunda suspensión académica;NO;NO;SI
+18;F;1;3;0;0;0;0;3,95;3,03;3;40;0;43;3,677209302;Estado académico normal;NO;NO;NO
+18;M;1;6;0;0;2,06;0;0;9,09;6;7;3;16;2,98;Advertencia académica;SI;SI;NO
+18;M;1;5;0;0;1,03;0;3,95;4,55;6;22;4;32;3,181785714;Advertencia académica;SI;NO;NO
+19;M;1;4;0;0;0;0;0;0;0;16;0;16;3,748125;Estado académico normal;NO;NO;SI
+18;M;1;12;0;0;3,09;7,69;2,63;9,09;0;25;5;30;3,3736;Estado académico normal;SI;SI;NO
+18;F;1;3;0;0;0;0;0;0;0;49;0;49;4,036530612;Estado académico normal;NO;NO;NO
+18;F;1;15;0;0;7,22;7,69;3,95;6,06;0;16;0;16;4,599375;Estado académico normal;SI;SI;NO
+18;M;1;9;0;0;4,12;0;3,95;6,06;5;27;0;32;3,7546875;Estado académico normal;SI;NO;SI
+18;F;1;12;0;0;5,15;2,56;9,21;1,52;0;6;3;9;4,028333333;Estado académico normal;NO;SI;NO
+17;F;1;7;0;0;0;7,69;6,58;1,52;0;16;0;16;4,046875;Estado académico normal;NO;SI;NO
+18;M;1;13;0;0;6,19;0;6,58;6,06;0;16;0;16;3,83;Estado académico normal;NO;SI;NO
+17;M;0;6;0;0;1,03;2,56;2,63;3,03;0;16;0;16;3,678125;Estado académico normal;SI;SI;NO
+21;M;0;14;0;0;3,09;5,13;2,63;10,61;0;36;12;48;3,827777778;Estado académico normal;NO;NO;NO
+20;M;0;10;0;0;3,09;0;5,26;4,55;2;27;3;32;3,802758621;Estado académico normal;SI;NO;NO
+19;M;0;2;0;0;2,06;7,69;14,47;1,52;0;32;0;32;4,049375;Estado académico normal;NO;NO;NO
+19;F;0;6;0;0;0;5,13;3,95;1,52;0;32;0;32;3,5696875;Estado académico normal;NO;NO;NO
+18;M;0;6;0;0;1,03;2,56;3,95;1,52;0;16;0;16;4,356875;Estado académico normal;SI;SI;NO
+18;M;0;5;0;0;7,22;12,82;17,11;0;0;17;0;17;3,841764706;Estado académico normal;SI;SI;NO
+17;M;0;6;0;0;1,03;5,13;1,32;3,03;0;10;6;16;3,513;Estado académico normal;NO;SI;NO
+17;M;0;5;0;0;7,22;12,82;17,11;0;0;16;0;16;4,191875;Estado académico normal;SI;SI;NO
+19;M;0;6;0;0;0;0;0;0;0;49;0;49;4,663061224;Estado académico normal;SI;NO;NO
+17;F;0;6;0;0;1,03;5,13;1,32;3,03;0;16;0;16;3,73625;Estado académico normal;NO;SI;NO
+20;M;0;9;0;0;0;5,13;6,58;3,03;5;23;16;44;3,14;Advertencia académica;NO;NO;NO
+18;M;0;9;0;0;4,12;2,56;3,95;1,52;0;49;0;49;3,890204082;Estado académico normal;NO;NO;NO
+18;M;0;6;0;0;2,06;7,69;14,47;1,52;0;36;0;36;3,692777778;Estado académico normal;NO;NO;NO
+18;M;0;8;0;0;1,03;2,56;5,26;3,03;6;7;3;16;3,206153846;Estado académico normal;NO;SI;NO
+17;M;0;13;0;0;1,03;0;9,21;7,58;0;13;3;16;3,78;Estado académico normal;NO;SI;NO
+37;M;23;25;0;0;15,46;56,41;32,89;13,64;3;83;30;116;3,69744186;Estado académico normal;SI;SI;NO
+21;F;12;27;0;0;13,4;23,08;21,05;19,7;3;152;15;170;3,942451613;Estado académico normal;SI;NO;NO
+17;M;9;15;0;0;9,28;17,95;15,79;7,58;1;2;0;3;2,95;Estado académico normal;SI;NO;NO
+20;M;9;15;0;0;8,25;12,82;21,05;6,06;8;58;17;83;3,582272727;Advertencia académica;SI;SI;NO
+19;M;8;18;0;0;6,19;2,56;14,47;13,64;8;38;8;54;3,577391304;Estado académico normal;SI;SI;NO
+22;F;8;9;0;0;1,03;20,51;14,47;7,58;21;31;3;55;3,245576923;Estado académico normal;SI;SI;NO
+20;F;6;11;0;0;3,09;12,82;13,16;7,58;0;46;6;52;3,740217391;Estado académico normal;SI;SI;NO
+18;F;4;9;0;0;5,15;5,13;11,84;1,52;0;46;3;49;3,876086957;Estado académico normal;SI;SI;NO
+20;F;3;6;0;0;2,06;7,69;5,26;4,55;4;12;9;25;3,380625;Advertencia académica;NO;SI;SI
+22;F;3;8;0;0;0;2,56;10,53;7,58;11;135;0;146;3,938835616;Estado académico normal;NO;SI;NO
+18;M;3;16;0;0;2,06;15,38;9,21;10,61;0;15;0;15;3,794;Estado académico normal;NO;NO;NO
+18;M;3;8;0;0;3,09;2,56;7,89;6,06;0;49;0;49;4,194285714;Estado académico normal;SI;NO;NO
+19;M;2;14;0;0;8,25;2,56;6,58;6,06;3;17;0;20;3,7335;Estado académico normal;SI;SI;NO
+22;M;2;14;0;0;2,06;12,82;5,26;10,61;5;19;3;27;3,505;Estado académico normal;NO;NO;NO
+19;M;2;8;0;0;2,06;0;9,21;4,55;18;2;13;33;0,944;Segunda suspensión académica;NO;NO;NO
+22;M;2;7;0;0;1,03;0;9,21;4,55;0;49;0;49;4,02244898;Estado académico normal;SI;NO;NO
+18;M;2;9;0;0;2,06;0;5,26;10,61;6;35;6;47;3,674390244;Estado académico normal;NO;NO;NO
+19;M;1;19;0;0;1,03;10,26;10,53;12,12;3;0;11;14;1,7;Advertencia académica;NO;NO;SI
+18;F;0;6;0;0;0;2,56;5,26;1,52;0;50;0;50;4,231;Estado académico normal;NO;NO;NO
+23;M;17;29;0;0;25,77;25,64;17,11;22,73;3;7;6;16;3,508;Estado académico normal;NO;SI;NO
+22;M;16;21;0;0;20,62;28,21;14,47;16,67;3;7;17;27;2,376;Suspensión académica;NO;SI;SI
+19;M;15;21;0;0;6,19;25,64;26,32;12,12;3;48;3;54;3,761764706;Estado académico normal;SI;SI;NO
+19;F;15;24;0;0;11,34;33,33;23,68;18,18;0;14;3;17;4,193571429;Estado académico normal;SI;SI;NO
+23;M;14;29;0;0;15,46;30,77;22,37;19,7;9;66;29;104;3,726;Estado académico normal;SI;SI;SI
+19;F;13;30;0;0;9,28;28,21;27,63;22,73;11;45;38;94;3,741964286;Estado académico normal;SI;SI;NO
+21;M;13;26;0;0;11,34;17,95;28,95;18,18;25;33;28;86;2,780862069;Suspensión académica;SI;SI;SI
+22;M;12;24;0;0;13,4;20,51;18,42;19,7;3;24;3;30;3,989259259;Estado académico normal;SI;NO;NO
+22;M;12;25;0;0;13,4;23,08;14,47;24,24;29;69;3;101;3,344387755;Estado académico normal;SI;SI;NO
+20;M;12;15;0;0;7,22;17,95;15,79;19,7;2;15;17;34;3,197058824;Advertencia académica;NO;SI;NO
+21;M;12;27;0;0;17,53;30,77;13,16;18,18;19;25;6;50;3,068181818;Advertencia académica;SI;SI;NO
+22;F;11;19;0;0;18,56;28,21;10,53;6,06;9;121;16;146;3,994538462;Estado académico normal;NO;SI;NO
+20;F;11;20;0;0;7,22;20,51;23,68;13,64;3;96;2;101;3,777575758;Estado académico normal;SI;SI;NO
+18;F;11;14;0;0;8,25;23,08;21,05;4,55;6;19;6;31;3,8632;Estado académico normal;SI;SI;NO
+25;M;10;18;0;0;9,28;15,38;18,42;13,64;11;139;14;164;3,9636;Estado académico normal;NO;SI;NO
+17;F;10;16;0;0;14,43;12,82;13,16;10,61;3;14;0;17;3,940588235;Estado académico normal;SI;SI;NO
+20;M;10;25;0;0;21,65;5,13;6,58;25,76;14;0;0;14;0,959285714;Advertencia académica;NO;NO;SI
+28;M;10;25;0;0;14,43;25,64;13,16;16,67;3;13;13;29;3,806875;Estado académico normal;NO;NO;SI
+21;F;9;24;0;0;5,15;17,95;13,16;13,64;20;63;16;99;3,406024096;Segundo reingreso;SI;SI;NO
+19;M;9;14;0;0;8,25;17,95;14,47;9,09;2;6;9;17;3,4375;Estado académico normal;SI;SI;SI
+18;M;9;11;0;0;11,34;17,95;10,53;4,55;1;54;0;55;3,718909091;Estado académico normal;SI;NO;NO
+20;M;9;17;0;0;14,43;10,26;13,16;10,61;23;49;27;99;3,215555556;Advertencia académica;SI;SI;NO
+19;F;9;14;0;0;2,06;20,51;19,74;10,61;6;75;6;87;3,892716049;Estado académico normal;SI;SI;NO
+21;M;9;18;0;0;14,43;23,08;6,58;12,12;2;5;10;17;3,33;Estado académico normal;NO;SI;SI
+19;M;9;21;0;0;16,49;15,38;11,84;12,12;9;35;3;47;3,318409091;Estado académico normal;NO;SI;NO
+22;F;9;26;0;0;19,59;17,95;14,47;10,61;8;62;9;79;3,606285714;Estado académico normal;SI;SI;NO
+20;F;8;18;0;0;7,22;25,64;11,84;12,12;6;71;3;80;3,672727273;Estado académico normal;SI;SI;NO
+20;M;8;9;0;0;5,15;5,13;15,79;9,09;0;11;22;33;3,766363636;Estado académico normal;SI;NO;SI
+19;M;8;24;0;0;6,19;20,51;14,47;22,73;5;32;9;46;3,816486486;Estado académico normal;SI;SI;NO
+18;M;8;14;0;0;4,12;23,08;17,11;6,06;3;51;0;54;3,965;Estado académico normal;SI;NO;NO
+19;M;8;11;0;0;4,12;17,95;14,47;7,58;0;85;0;85;4,273529412;Estado académico normal;SI;SI;NO
+19;F;8;20;0;0;12,37;20,51;10,53;12,12;3;40;0;43;3,969302326;Estado académico normal;NO;NO;NO
+20;F;8;17;0;0;8,25;12,82;17,11;10,61;0;100;3;103;4,2185;Estado académico normal;SI;SI;NO
+19;F;7;21;0;0;11,34;17,95;13,16;10,61;0;9;8;17;4,311111111;Estado académico normal;NO;SI;SI
+18;F;7;12;0;0;10,31;5,13;13,16;7,58;3;38;3;44;4,071463415;Estado académico normal;SI;NO;SI
+19;M;7;15;0;0;3,09;5,13;21,05;12,12;0;66;15;81;4,087575758;Estado académico normal;NO;SI;NO
+18;M;7;19;0;0;7,22;15,38;17,11;10,61;3;38;6;47;3,582195122;Estado académico normal;SI;NO;NO
+21;M;7;16;0;0;7,22;12,82;15,79;9,09;0;131;11;142;4,040152672;Estado académico normal;SI;SI;NO
+19;F;6;16;0;0;10,31;12,82;10,53;7,58;0;2;0;2;4,94;Estado académico normal;SI;NO;NO
+19;M;6;16;0;0;13,4;7,69;3,95;13,64;5;9;3;17;2,772142857;Advertencia académica;NO;SI;SI
+19;M;6;12;0;0;9,28;7,69;13,16;3,03;6;34;12;52;3,3685;Advertencia académica;SI;SI;NO
+22;F;6;13;0;0;3,09;7,69;15,79;10,61;9;87;6;102;3,880729167;Estado académico normal;SI;SI;NO
+21;M;6;13;0;0;6,19;10,26;14,47;6,06;21;101;9;131;3,433770492;Estado académico normal;SI;SI;NO
+20;F;6;21;0;0;4,12;20,51;17,11;12,12;14;113;13;140;3,67519685;Primer reingreso;SI;SI;NO
+17;M;6;24;0;0;10,31;12,82;10,53;19,7;0;11;6;17;4,109090909;Estado académico normal;NO;SI;NO
+17;M;6;24;0;0;10,31;17,95;10,53;16,67;3;11;3;17;3,451428571;Estado académico normal;NO;SI;NO
+20;F;6;20;0;0;4,12;23,08;13,16;13,64;6;59;9;74;3,556615385;Estado académico normal;SI;SI;NO
+19;M;5;12;0;0;8,25;7,69;6,58;9,09;0;34;0;34;4,120588235;Estado académico normal;SI;NO;NO
+17;M;5;15;0;0;10,31;7,69;7,89;9,09;0;11;6;17;4,141818182;Estado académico normal;SI;SI;NO
+19;M;5;8;0;0;7,22;10,26;3,95;6,06;0;9;0;9;3,722222222;Estado académico normal;SI;NO;NO
+17;M;5;12;0;0;5,15;10,26;7,89;10,61;0;24;0;24;3,992916667;Estado académico normal;SI;SI;NO
+19;M;5;22;0;0;12,37;2,56;6,58;21,21;6;40;6;52;3,647391304;Estado académico normal;NO;NO;NO
+16;M;5;17;0;0;13,4;5,13;11,84;4,55;0;17;0;17;3,728235294;Estado académico normal;SI;SI;NO
+20;M;5;15;0;0;7,22;5,13;17,11;4,55;12;72;9;93;3,644285714;Estado académico normal;SI;NO;NO
+18;M;5;21;0;0;11,34;17,95;10,53;7,58;25;12;24;61;2,214324324;Suspensión académica;SI;SI;SI
+20;M;5;17;0;0;10,31;5,13;9,21;12,12;9;69;9;87;3,813461538;Estado académico normal;SI;SI;NO
+19;M;5;22;0;0;10,31;17,95;15,79;4,55;3;26;3;32;3,322413793;Advertencia académica;NO;SI;NO
+18;M;5;13;0;0;7,22;23,08;3,95;6,06;3;25;0;28;3,824285714;Estado académico normal;SI;SI;NO
+18;M;5;14;0;0;9,28;12,82;5,26;9,09;0;11;25;36;4,110909091;Estado académico normal;SI;SI;NO
+19;M;5;15;0;0;7,22;7,69;11,84;9,09;15;0;15;30;0,404666667;Advertencia académica;SI;NO;SI
+21;M;5;14;0;0;7,22;0;2,63;22,73;12;33;6;51;3,109555556;Advertencia académica;NO;SI;NO
+16;F;4;8;0;0;10,31;0;3,95;4,55;1;0;0;1;1;Estado académico normal;NO;NO;NO
+18;M;4;8;0;0;8,25;2,56;7,89;1,52;0;17;0;17;3,601176471;Estado académico normal;SI;SI;NO
+19;M;4;17;0;0;2,06;7,69;17,11;10,61;2;0;0;2;1,46;Estado académico normal;SI;NO;NO
+19;M;4;15;0;0;7,22;10,26;3,95;13,64;3;43;3;49;3,68673913;Estado académico normal;NO;SI;SI
+19;M;4;18;0;0;11,34;10,26;3,95;12,12;8;9;0;17;2,416470588;Advertencia académica;SI;NO;SI
+19;M;4;14;0;0;6,19;7,69;9,21;9,09;0;15;0;15;4,017333333;Estado académico normal;NO;SI;NO
+17;F;4;9;0;0;11,34;2,56;3,95;3,03;0;17;0;17;3,689411765;Estado académico normal;SI;SI;NO
+18;M;4;12;0;0;5,15;10,26;13,16;1,52;0;17;0;17;3,718235294;Estado académico normal;SI;SI;NO
+17;F;4;14;0;0;9,28;15,38;3,95;6,06;0;15;2;17;3,970666667;Estado académico normal;SI;SI;NO
+18;M;4;7;0;0;4,12;23,08;1,32;1,52;2;15;0;17;3,548823529;Estado académico normal;SI;SI;NO
+20;M;4;16;0;0;8,25;10,26;9,21;7,58;0;17;3;20;3,884117647;Estado académico normal;SI;SI;NO
+19;F;4;14;0;0;3,09;10,26;11,84;9,09;6;43;0;49;3,906326531;Estado académico normal;SI;SI;NO
+17;F;4;14;0;0;7,22;7,69;14,47;1,52;3;14;0;17;3,638823529;Estado académico normal;SI;NO;NO
+17;M;4;14;0;0;5,15;15,38;6,58;9,09;0;17;0;17;3,966470588;Estado académico normal;SI;SI;NO
+19;M;4;12;0;0;14,43;0;3,95;4,55;3;56;1;60;3,851864407;Estado académico normal;SI;NO;NO
+17;M;4;7;0;0;7,22;0;6,58;4,55;4;17;3;24;3,447142857;Estado académico normal;SI;SI;NO
+18;M;4;11;0;0;7,22;5,13;5,26;9,09;9;35;3;47;3,525454545;Estado académico normal;NO;NO;NO
+21;M;4;16;0;0;7,22;5,13;17,11;3,03;23;89;3;115;3,463392857;Estado académico normal;SI;SI;NO
+17;M;4;16;0;0;5,15;17,95;5,26;12,12;0;17;0;17;3,978235294;Estado académico normal;SI;SI;NO
+20;M;4;18;0;0;6,19;15,38;9,21;10,61;0;17;3;20;3,864117647;Estado académico normal;SI;NO;NO
+19;M;4;18;0;0;8,25;10,26;10,53;9,09;3;29;12;44;3,593125;Estado académico normal;SI;NO;NO
+18;F;4;23;0;0;10,31;12,82;7,89;15,15;0;14;3;17;4,31;Estado académico normal;SI;SI;NO
+18;M;4;14;0;0;6,19;15,38;7,89;6,06;0;17;0;17;3,662941176;Estado académico normal;NO;SI;NO
+18;M;4;15;0;0;9,28;20,51;5,26;3,03;0;52;0;52;4,170384615;Estado académico normal;NO;NO;NO
+20;M;4;18;0;0;4,12;28,21;7,89;7,58;2;17;6;25;3,462105263;Estado académico normal;SI;SI;NO
+19;M;4;8;0;0;3,09;7,69;11,84;1,52;0;49;3;52;4,094489796;Estado académico normal;SI;NO;NO
+17;M;4;13;0;0;8,25;17,95;5,26;3,03;0;17;0;17;3,392941176;Estado académico normal;SI;SI;NO
+17;F;3;14;0;0;6,19;15,38;3,95;7,58;0;34;0;34;4,47;Estado académico normal;NO;NO;NO
+19;F;3;5;0;0;1,03;2,56;9,21;3,03;12;36;0;48;3,61;Estado académico normal;SI;NO;SI
+17;M;3;12;0;0;8,25;15,38;2,63;3,03;0;19;0;19;3,868947368;Estado académico normal;SI;SI;NO
+29;M;3;8;0;0;0;0;0;0;0;55;3;58;4,172;Estado académico normal;NO;NO;NO
+18;M;3;20;0;0;9,28;15,38;5,26;10,61;0;17;0;17;4,177647059;Estado académico normal;SI;SI;NO
+17;M;3;10;0;0;2,06;5,13;14,47;1,52;0;14;3;17;3,875;Estado académico normal;SI;NO;NO
+19;M;3;17;0;0;2,06;7,69;13,16;12,12;14;19;2;35;3,212121212;Estado académico normal;SI;NO;NO
+20;M;3;28;0;0;16,49;7,69;6,58;15,15;27;5;18;50;1,2428125;Segunda suspensión académica;NO;SI;SI
+18;M;3;9;0;0;4,12;7,69;7,89;3,03;0;18;11;29;4,237777778;Estado académico normal;SI;SI;NO
+20;M;3;14;0;0;4,12;17,95;1,32;12,12;9;19;16;44;3,259285714;Estado académico normal;NO;NO;NO
+19;F;3;13;0;0;9,28;10,26;3,95;4,55;0;17;0;17;3,607647059;Estado académico normal;SI;SI;NO
+18;M;3;17;0;0;5,15;7,69;13,16;7,58;6;33;12;51;3,549487179;Estado académico normal;SI;NO;NO
+18;F;3;18;0;0;9,28;7,69;7,89;9,09;6;40;3;49;3,58826087;Estado académico normal;SI;NO;NO
+18;M;3;14;0;0;4,12;17,95;6,58;6,06;5;10;3;18;3,115333333;Estado académico normal;NO;NO;SI
+19;M;3;13;0;0;8,25;5,13;5,26;7,58;0;52;0;52;4,0175;Estado académico normal;NO;NO;NO
+18;M;3;15;0;0;6,19;10,26;9,21;6,06;3;46;0;49;3,907346939;Estado académico normal;SI;NO;NO
+18;M;3;5;0;0;3,09;5,13;5,26;3,03;6;47;3;56;3,844150943;Estado académico normal;SI;NO;NO
+19;M;3;22;0;0;12,37;5,13;2,63;18,18;0;9;8;17;3,944444444;Estado académico normal;NO;SI;NO
+18;M;3;12;0;0;7,22;5,13;5,26;7,58;12;22;21;55;2,781176471;Advertencia académica;NO;NO;SI
+20;M;3;13;0;0;3,09;2,56;9,21;12,12;5;27;21;53;3,39125;Advertencia académica;SI;NO;SI
+17;F;3;23;0;0;10,31;2,56;6,58;19,7;3;23;0;26;3,723461538;Estado académico normal;SI;SI;NO
+18;M;2;18;0;0;7,22;5,13;2,63;16,67;3;20;6;29;4,04;Estado académico normal;NO;NO;NO
+17;F;2;22;0;0;6,19;12,82;10,53;10,61;0;17;3;20;3,998823529;Estado académico normal;SI;SI;NO
+18;M;2;6;0;0;3,09;2,56;0;9,09;0;11;6;17;4,013636364;Estado académico normal;NO;SI;NO
+17;M;2;12;0;0;4,12;7,69;9,21;3,03;0;11;6;17;4,558181818;Estado académico normal;SI;SI;NO
+20;F;2;14;0;0;5,15;7,69;2,63;12,12;12;25;15;52;3,304324324;Estado académico normal;NO;SI;SI
+19;M;2;10;0;0;4,12;0;7,89;6,06;6;50;9;65;3,668571429;Estado académico normal;NO;NO;NO
+19;M;2;11;0;0;2,06;2,56;7,89;9,09;0;25;9;34;3,8876;Estado académico normal;NO;NO;NO
+18;M;2;16;0;0;4,12;7,69;10,53;7,58;0;34;0;34;4,005;Estado académico normal;SI;NO;NO
+18;M;2;12;0;0;8,25;2,56;3,95;6,06;0;17;0;17;3,615294118;Estado académico normal;NO;SI;NO
+19;M;2;19;0;0;6,19;2,56;7,89;15,15;0;15;2;17;3,869333333;Estado académico normal;NO;SI;NO
+18;M;2;16;0;0;5,15;10,26;6,58;9,09;3;11;6;20;3,357142857;Estado académico normal;NO;SI;NO
+19;F;2;12;0;0;3,09;10,26;3,95;9,09;3;31;0;34;3,977941176;Estado académico normal;NO;SI;NO
+20;M;2;22;0;0;10,31;5,13;7,89;12,12;9;22;3;34;3,667096774;Estado académico normal;NO;SI;NO
+18;M;2;20;0;0;8,25;12,82;6,58;9,09;0;17;0;17;3,578235294;Estado académico normal;SI;SI;NO
+17;M;2;16;0;0;4,12;12,82;7,89;7,58;3;14;0;17;3,432941176;Estado académico normal;SI;NO;NO
+17;M;2;9;0;0;3,09;7,69;1,32;9,09;1;1;1;3;2;Estado académico normal;SI;NO;NO
+18;F;2;7;0;0;2,06;2,56;5,26;6,06;0;34;0;34;4,162941176;Estado académico normal;NO;NO;NO
+19;M;2;9;0;0;5,15;7,69;1,32;6,06;17;0;0;17;0,562352941;Advertencia académica;SI;NO;NO
+19;M;2;10;0;0;5,15;5,13;6,58;3,03;2;12;3;17;3,407857143;Estado académico normal;SI;SI;NO
+21;M;2;9;0;0;2,06;12,82;1,32;7,58;16;15;15;46;2,819032258;Primer reingreso;SI;SI;NO
+17;F;2;10;0;0;0;7,69;10,53;4,55;0;17;0;17;4,368823529;Estado académico normal;SI;SI;NO
+19;M;2;8;0;0;1,03;5,13;7,89;4,55;0;11;6;17;4,071818182;Estado académico normal;SI;SI;NO
+19;M;2;15;0;0;5,15;2,56;6,58;12,12;6;11;0;17;3,101764706;Estado académico normal;SI;SI;NO
+20;M;2;11;0;0;3,09;15,38;3,95;4,55;0;77;3;80;3,863766234;Estado académico normal;SI;SI;NO
+20;M;2;16;0;0;10,31;7,69;1,32;9,09;0;52;0;52;4,095576923;Estado académico normal;NO;SI;NO
+19;M;2;9;0;0;3,09;10,26;2,63;6,06;0;57;0;57;4,231052632;Estado académico normal;SI;NO;NO
+18;M;2;18;0;0;6,19;7,69;6,58;12,12;3;53;0;56;3,75;Estado académico normal;SI;NO;NO
+18;M;2;9;0;0;2,06;5,13;10,53;1,52;3;46;3;52;3,955918367;Estado académico normal;SI;NO;NO
+17;M;2;13;0;0;4,12;5,13;3,95;12,12;0;17;0;17;3,860588235;Estado académico normal;SI;SI;NO
+19;F;2;17;0;0;6,19;15,38;2,63;10,61;9;41;3;53;3,559;Estado académico normal;SI;NO;NO
+16;F;2;15;0;0;7,22;5,13;5,26;9,09;0;17;0;17;3,787058824;Estado académico normal;NO;SI;NO
+17;M;2;7;0;0;1,03;10,26;6,58;1,52;0;17;0;17;4,104117647;Estado académico normal;NO;SI;NO
+17;M;2;8;0;0;3,09;2,56;6,58;4,55;0;17;0;17;4,154117647;Estado académico normal;SI;SI;NO
+17;M;1;13;0;0;1,03;7,69;10,53;4,55;0;52;0;52;4,354038462;Estado académico normal;SI;NO;NO
+17;F;1;7;0;0;3,09;0;3,95;4,55;0;14;3;17;3,621428571;Estado académico normal;SI;SI;NO
+19;M;1;23;0;0;7,22;5,13;7,89;15,15;6;51;9;66;3,762982456;Estado académico normal;NO;NO;NO
+18;M;1;7;0;0;4,12;0;3,95;3,03;9;25;0;34;3,536470588;Estado académico normal;NO;NO;NO
+18;M;1;9;0;0;4,12;7,69;3,95;1,52;3;10;10;23;3,272307692;Estado académico normal;SI;SI;SI
+20;M;1;11;0;0;5,15;7,69;2,63;4,55;5;6;6;17;3,029090909;Estado académico normal;NO;NO;SI
+18;M;1;9;0;0;2,06;5,13;5,26;4,55;0;17;0;17;4,090588235;Estado académico normal;SI;SI;NO
+19;F;1;12;0;0;4,12;2,56;5,26;7,58;3;38;9;50;3,869756098;Estado académico normal;SI;NO;NO
+17;M;1;19;0;0;6,19;10,26;3,95;12,12;0;25;0;25;4,166;Estado académico normal;NO;SI;NO
+19;M;1;13;0;0;5,15;2,56;7,89;4,55;0;45;6;51;3,767333333;Estado académico normal;SI;NO;NO
+18;M;1;6;0;0;1,03;7,69;2,63;3,03;0;52;0;52;3,760384615;Estado académico normal;NO;NO;NO
+19;M;1;12;0;0;2,06;7,69;5,26;7,58;9;20;6;35;3,109310345;Advertencia académica;NO;NO;SI
+20;M;1;8;0;0;4,12;5,13;2,63;3,03;6;9;22;37;2,838;Advertencia académica;NO;NO;NO
+18;M;1;14;0;0;3,09;7,69;7,89;6,06;0;21;6;27;4,108095238;Estado académico normal;NO;NO;NO
+18;M;1;12;0;0;3,09;5,13;3,95;9,09;0;18;0;18;3,892222222;Estado académico normal;SI;SI;NO
+18;M;1;9;0;0;2,06;5,13;6,58;3,03;6;20;0;26;3,469230769;Estado académico normal;SI;SI;NO
+18;M;1;4;0;0;1,03;5,13;1,32;3,03;0;17;0;17;3,995882353;Estado académico normal;SI;SI;NO
+18;M;1;14;0;0;2,06;5,13;9,21;7,58;0;52;0;52;4,1375;Estado académico normal;SI;NO;NO
+19;M;1;12;0;0;3,09;5,13;3,95;9,09;0;17;0;17;3,991764706;Estado académico normal;NO;SI;NO
+17;N;1;15;0;0;6,19;10,26;3,95;6,06;0;17;0;17;4,376470588;Estado académico normal;SI;SI;NO
+19;F;1;3;0;0;0;0;0;0;0;52;0;52;3,896153846;Estado académico normal;SI;NO;NO
+17;M;1;13;0;0;2,06;7,69;3,95;10,61;1;23;0;24;3,775833333;Estado académico normal;SI;SI;NO
+18;F;1;7;0;0;1,03;5,13;3,95;4,55;0;11;6;17;3,945454545;Estado académico normal;SI;SI;NO
+19;M;0;5;0;0;7,22;12,82;17,11;0;3;10;3;16;3,843846154;Estado académico normal;NO;SI;NO
+19;F;0;4;0;0;1,03;2,56;1,32;1,52;3;49;0;52;3,797884615;Estado académico normal;SI;NO;NO
+18;M;0;11;0;0;3,09;7,69;3,95;3,03;5;26;9;40;3,107096774;Estado académico normal;SI;NO;NO
+18;F;0;7;0;0;0;0;7,89;1,52;0;11;6;17;4,543636364;Estado académico normal;NO;SI;NO
+19;M;0;1;0;0;0;0;0;0;0;68;2;70;3,619117647;Estado académico normal;SI;SI;NO
+19;M;0;10;0;0;3,09;0;2,63;7,58;3;52;0;55;3,742727273;Estado académico normal;NO;NO;NO
+18;F;0;22;0;0;6,19;7,69;7,89;10,61;6;24;11;41;3,322333333;Estado académico normal;NO;NO;NO
+19;M;0;15;0;0;3,09;2,56;5,26;10,61;0;21;12;33;3,343333333;Estado académico normal;NO;NO;NO
+19;F;0;5;0;0;0;0;3,95;3,03;3;46;0;49;3,946938776;Estado académico normal;SI;NO;NO
+17;M;0;12;0;0;2,06;2,56;6,58;6,06;0;11;6;17;3,88;Estado académico normal;SI;SI;NO
+18;M;0;9;0;0;3,09;0;3,95;4,55;0;19;0;19;4,417368421;Estado académico normal;SI;SI;NO
+18;M;0;13;0;0;3,09;7,69;7,89;1,52;0;17;0;17;4,027058824;Estado académico normal;NO;SI;NO
+26;M;20;20;0;0;17,53;28,21;28,95;15,15;33;110;39;182;3,519300699;Advertencia académica;SI;SI;NO
+26;M;17;24;0;0;17,53;33,33;15,79;24,24;2;6;47;55;3,00625;Advertencia académica;SI;NO;NO
+21;M;16;25;0;0;7,22;41,03;32,89;13,64;14;10;25;49;2,88;Advertencia académica;SI;SI;NO
+20;M;15;16;0;0;11,34;20,51;23,68;9,09;0;85;18;103;4,061647059;Estado académico normal;SI;NO;NO
+22;M;14;17;0;0;12,37;30,77;17,11;12,12;29;127;20;176;3,594102564;Estado académico normal;SI;SI;NO
+20;M;13;20;0;0;18,56;17,95;17,11;12,12;6;51;3;60;3,400701754;Estado académico normal;SI;SI;NO
+23;M;12;11;0;0;5,15;38,46;14,47;6,06;23;74;47;144;3,406185567;Advertencia académica;SI;NO;NO
+20;M;12;32;0;0;21,65;17,95;15,79;24,24;0;63;1;64;4,020793651;Estado académico normal;SI;NO;NO
+18;M;10;21;0;0;12,37;20,51;15,79;13,64;7;12;9;28;3,325263158;Advertencia académica;SI;SI;NO
+21;F;10;24;0;0;6,19;17,95;22,37;21,21;7;133;16;156;3,988785714;Estado académico normal;SI;SI;SI
+18;M;10;23;0;0;9,28;15,38;15,79;12,12;6;9;31;46;2,969333333;Estado académico normal;SI;SI;SI
+18;M;10;17;0;0;18,56;12,82;7,89;12,12;0;14;10;24;3,867142857;Estado académico normal;NO;SI;NO
+24;F;10;20;0;0;8,25;20,51;13,16;12,12;22;69;63;154;3,285824176;Primer reingreso;SI;SI;NO
+21;M;9;18;0;0;7,22;17,95;17,11;13,64;4;132;12;148;3,966102941;Estado académico normal;SI;SI;NO
+20;M;9;12;0;0;3,09;20,51;18,42;7,58;0;104;0;104;4,257019231;Estado académico normal;SI;SI;NO
+18;M;9;15;0;0;9,28;10,26;19,74;7,58;9;31;6;46;3,407;Estado académico normal;SI;NO;NO
+21;M;8;12;0;0;9,28;12,82;14,47;7,58;6;98;6;110;4,121730769;Estado académico normal;SI;SI;NO
+17;M;8;20;0;0;16,49;12,82;7,89;13,64;5;19;3;27;3,25125;Estado académico normal;SI;SI;NO
+22;M;8;19;0;0;7,22;15,38;18,42;12,12;20;116;22;158;3,558235294;Estado académico normal;SI;SI;NO
+17;M;7;18;0;0;10,31;10,26;13,16;7,58;0;15;0;15;4,023333333;Estado académico normal;SI;SI;NO
+18;M;7;13;0;0;5,15;12,82;14,47;9,09;0;54;0;54;4,465;Estado académico normal;SI;NO;NO
+18;M;7;9;0;0;5,15;7,69;15,79;4,55;3;28;15;46;3,756451613;Estado académico normal;SI;NO;NO
+19;M;6;11;0;0;2,06;12,82;13,16;9,09;3;24;3;30;3,815185185;Estado académico normal;SI;NO;NO
+18;M;6;18;0;0;15,46;12,82;10,53;3,03;3;36;7;46;3,600769231;Estado académico normal;SI;SI;NO
+20;M;6;18;0;0;10,31;10,26;11,84;10,61;2;12;12;26;3,31;Estado académico normal;SI;NO;NO
+21;F;6;16;0;0;5,15;12,82;17,11;7,58;22;124;15;161;3,636917808;Estado académico normal;SI;NO;NO
+22;M;6;16;0;0;4,12;15,38;15,79;10,61;45;120;20;185;3,32969697;Estado académico normal;SI;SI;NO
+20;N;6;11;0;0;8,25;10,26;10,53;4,55;9;27;3;39;3,366944444;Estado académico normal;NO;NO;NO
+23;M;6;16;0;0;10,31;10,26;6,58;13,64;18;5;9;32;1,809565217;Advertencia académica;NO;NO;NO
+18;M;6;18;0;0;6,19;20,51;9,21;13,64;0;39;9;48;4,311538462;Estado académico normal;SI;NO;NO
+18;M;6;14;0;0;9,28;17,95;6,58;7,58;9;14;8;31;2,903913043;Suspensión académica;NO;NO;SI
+23;M;6;11;0;0;1,03;7,69;15,79;10,61;16;119;27;162;3,695259259;Estado académico normal;SI;SI;NO
+17;F;6;12;0;0;12,37;7,69;3,95;9,09;0;15;0;15;3,866666667;Estado académico normal;NO;SI;NO
+18;M;5;19;0;0;4,12;12,82;14,47;13,64;3;39;8;50;3,675714286;Estado académico normal;SI;NO;NO
+19;M;5;16;0;0;4,12;12,82;14,47;6,06;3;11;27;41;3,497857143;Advertencia académica;SI;SI;NO
+18;M;5;17;0;0;12,37;12,82;3,95;10,61;0;15;0;15;3,730666667;Estado académico normal;NO;SI;NO
+17;M;5;13;0;0;3,09;20,51;11,84;4,55;0;12;3;15;3,870833333;Estado académico normal;SI;SI;NO
+21;M;5;23;0;0;9,28;7,69;13,16;16,67;12;85;26;123;3,450103093;Estado académico normal;SI;SI;NO
+39;M;5;12;0;0;3,09;10,26;13,16;7,58;0;19;3;22;3,703684211;Estado académico normal;SI;SI;NO
+18;M;5;16;0;0;8,25;2,56;15,79;7,58;8;27;12;47;3,410571429;Estado académico normal;SI;NO;NO
+18;M;5;16;0;0;6,19;12,82;14,47;6,06;0;47;3;50;4,177659574;Estado académico normal;SI;NO;NO
+17;M;5;18;0;0;14,43;10,26;9,21;4,55;8;13;3;24;3,18047619;Advertencia académica;SI;NO;NO
+19;F;5;13;0;0;6,19;12,82;11,84;4,55;4;80;0;84;3,933571429;Estado académico normal;SI;NO;NO
+23;M;5;15;0;0;2,06;10,26;19,74;6,06;3;9;3;15;3,523333333;Estado académico normal;SI;NO;NO
+19;M;5;17;0;0;4,12;10,26;14,47;12,12;15;49;12;76;3,29796875;Estado académico normal;SI;SI;NO
+19;M;4;15;0;0;9,28;10,26;3,95;10,61;0;52;1;53;4,379615385;Estado académico normal;SI;NO;NO
+17;M;4;9;0;0;5,15;7,69;10,53;1,52;0;15;0;15;4,572666667;Estado académico normal;SI;SI;NO
+21;M;4;13;0;0;5,15;10,26;13,16;3,03;0;113;8;121;3,960265487;Estado académico normal;SI;SI;NO
+18;M;4;16;0;0;12,37;2,56;2,63;13,64;4;11;9;24;3,083333333;Advertencia académica;NO;NO;SI
+18;M;4;12;0;0;3,09;10,26;14,47;3,03;6;35;3;44;3,49;Estado académico normal;SI;SI;NO
+20;M;4;15;0;0;2,06;15,38;5,26;16,67;4;5;6;15;2,471111111;Advertencia académica;SI;NO;SI
+19;M;4;16;0;0;2,06;0;13,16;18,18;0;30;0;30;3,253;Estado académico normal;SI;SI;NO
+18;M;4;15;0;0;8,25;2,56;13,16;6,06;5;40;1;46;3,656666667;Estado académico normal;SI;NO;NO
+18;M;4;14;0;0;8,25;15,38;5,26;6,06;15;0;0;15;0,426;Advertencia académica;SI;SI;SI
+22;M;3;19;0;0;7,22;7,69;10,53;10,61;0;2;12;14;3,16;Estado académico normal;NO;SI;NO
+18;M;3;7;0;0;3,09;5,13;14,47;7,58;0;32;17;49;3,7853125;Estado académico normal;SI;NO;NO
+18;M;3;14;0;0;2,06;12,82;11,84;6,06;0;14;35;49;3,843571429;Estado académico normal;SI;SI;NO
+18;M;3;13;0;0;5,15;7,69;9,21;6,06;0;47;0;47;4,188723404;Estado académico normal;SI;SI;NO
+20;M;3;8;0;0;1,03;0;10,53;7,58;0;62;0;62;4,039354839;Estado académico normal;NO;NO;NO
+19;M;3;17;0;0;6,19;12,82;5,26;12,12;3;14;10;27;3,352352941;Advertencia académica;SI;NO;SI
+22;M;3;9;0;0;4,12;5,13;9,21;3,03;21;125;22;168;3,808013699;Advertencia académica;SI;NO;NO
+23;M;2;8;0;0;3,09;2,56;9,21;1,52;13;30;6;49;3,398837209;Advertencia académica;SI;SI;NO
+19;M;2;3;0;0;2,06;7,69;14,47;1,52;17;5;3;25;1,918636364;Suspensión académica;NO;NO;SI
+18;M;2;5;0;0;2,06;7,69;14,47;1,52;0;9;6;15;3,87;Estado académico normal;SI;NO;SI
+17;M;2;4;0;0;1,03;0;2,63;7,58;1;22;1;24;3,829130435;Estado académico normal;SI;SI;NO
+18;F;2;4;0;0;0;5,13;3,95;4,55;0;37;0;37;3,763513514;Estado académico normal;SI;SI;NO
+18;F;2;4;0;0;2,06;7,69;0;4,55;0;12;11;23;3,991666667;Estado académico normal;SI;SI;NO
+18;M;2;11;0;0;3,09;15,38;3,95;4,55;0;43;9;52;3,568372093;Estado académico normal;NO;NO;NO
+17;M;2;13;0;0;3,09;7,69;6,58;9,09;0;15;0;15;3,745333333;Estado académico normal;SI;SI;NO
+20;M;2;11;0;0;2,06;5,13;10,53;4,55;0;52;0;52;4,374423077;Estado académico normal;SI;NO;NO
+19;M;1;5;0;0;2,06;2,56;2,63;3,03;0;22;6;28;3,444545455;Estado académico normal;SI;NO;NO
+17;M;1;13;0;0;4,12;5,13;7,89;4,55;3;9;3;15;3,133333333;Estado académico normal;SI;NO;NO
+19;M;1;11;0;0;2,06;15,38;5,26;1,52;0;30;0;30;3,997333333;Estado académico normal;NO;NO;NO
+18;M;1;11;0;0;5,15;5,13;3,95;4,55;0;15;0;15;4,05;Estado académico normal;SI;SI;NO
+17;M;1;6;0;0;2,06;2,56;0;7,58;0;3;0;3;3,783333333;Estado académico normal;SI;NO;NO
+17;M;1;10;0;0;2,06;2,56;3,95;9,09;5;13;9;27;3,451666667;Estado académico normal;SI;SI;SI
+27;F;1;11;0;0;1,03;5,13;7,89;6,06;0;66;2;68;4,116666667;Estado académico normal;SI;SI;NO
+20;M;1;10;0;0;4,12;0;6,58;4,55;17;12;19;48;2,207931034;Primer reingreso;NO;NO;NO
+18;M;1;9;0;0;1,03;5,13;7,89;3,03;6;25;14;45;3,233225806;Advertencia académica;SI;SI;NO
+17;F;0;7;0;0;2,06;2,56;3,95;1,52;0;15;0;15;4,752666667;Estado académico normal;SI;SI;NO
+18;M;0;10;0;0;3,09;5,13;5,26;1,52;0;49;3;52;3,832653061;Estado académico normal;SI;NO;NO
+19;F;0;8;0;0;1,03;0;5,26;4,55;0;49;0;49;3,719387755;Estado académico normal;SI;NO;NO
+19;M;17;21;0;0;12,37;38,46;19,74;19,7;4;10;30;44;2,79;Advertencia académica;SI;SI;NO
+21;F;14;16;0;0;8,25;17,95;23,68;16,67;12;90;5;107;3,831666667;Estado académico normal;SI;SI;NO
+29;F;12;16;0;0;7,22;12,82;23,68;15,15;3;111;48;162;3,912280702;Estado académico normal;SI;SI;NO
+19;M;11;20;0;0;12,37;25,64;14,47;13,64;3;12;0;15;3,564;Estado académico normal;SI;SI;NO
+20;M;11;23;0;0;13,4;17,95;17,11;18,18;10;0;20;30;0,96;Advertencia académica;SI;SI;NO
+24;M;10;17;0;0;5,15;20,51;14,47;19,7;13;2;0;15;0,498666667;Advertencia académica;SI;NO;SI
+19;M;9;12;0;0;5,15;28,21;14,47;4,55;2;60;17;79;3,724354839;Estado académico normal;SI;SI;NO
+20;M;9;16;0;0;5,15;20,51;17,11;12,12;4;113;4;121;3,78991453;Estado académico normal;SI;SI;NO
+18;F;8;17;0;0;11,34;10,26;14,47;10,61;17;10;15;42;2,756666667;Suspensión académica;SI;NO;SI
+19;M;8;25;0;0;14,43;10,26;17,11;15,15;3;33;9;45;3,501388889;Estado académico normal;SI;SI;NO
+20;F;7;22;0;0;8,25;15,38;15,79;15,15;0;116;0;116;4,483706897;Estado académico normal;SI;SI;NO
+18;M;6;16;0;0;4,12;15,38;11,84;13,64;3;41;3;47;3,717272727;Estado académico normal;SI;NO;NO
+21;F;6;15;0;0;2,06;23,08;17,11;4,55;12;138;3;153;3,8062;Estado académico normal;SI;SI;NO
+25;F;5;15;0;0;5,15;7,69;14,47;9,09;50;103;38;191;3,184444444;Estado académico normal;SI;NO;SI
+22;F;5;18;0;0;4,12;17,95;11,84;12,12;0;127;0;127;4,343464567;Estado académico normal;SI;SI;NO
+21;M;3;13;0;0;3,09;12,82;13,16;1,52;0;140;5;145;4,416357143;Estado académico normal;SI;SI;NO
+19;M;3;16;0;0;4,12;5,13;10,53;12,12;14;20;15;49;2,865294118;Primer reingreso;SI;NO;NO
+17;M;3;9;0;0;2,06;0;7,89;10,61;6;9;0;15;2,929333333;Advertencia académica;NO;SI;NO
+19;M;2;11;0;0;4,12;5,13;7,89;4,55;8;24;12;44;3,275;Advertencia académica;SI;NO;NO
+19;M;1;6;0;0;2,06;7,69;14,47;1,52;3;27;0;30;3,456;Estado académico normal;SI;NO;NO
+22;M;1;11;0;0;0;7,69;6,58;7,58;3;33;6;42;3,691944444;Estado académico normal;NO;NO;NO
+18;M;0;10;0;0;3,09;2,56;3,95;4,55;0;44;3;47;3,675227273;Estado académico normal;NO;NO;NO
+20;F;0;8;0;0;0;2,56;5,26;4,55;0;37;6;43;3,602972973;Estado académico normal;NO;NO;NO
+18;M;0;16;0;0;4,12;2,56;3,95;12,12;0;30;0;30;3,924;Estado académico normal;NO;NO;NO
+22;M;17;24;0;0;13,4;30,77;36,84;7,58;6;117;6;129;3,810325203;Estado académico normal;SI;SI;NO
+20;M;14;25;0;0;16,49;7,69;23,68;16,67;4;35;12;51;3,447179487;Estado académico normal;SI;SI;NO
+20;M;14;13;0;0;9,28;23,08;22,37;9,09;33;21;26;80;1,738518519;Suspensión académica;SI;SI;SI
+21;M;13;22;0;0;9,28;25,64;27,63;12,12;0;102;8;110;3,79627451;Estado académico normal;SI;NO;NO
+19;M;11;23;0;0;11,34;15,38;21,05;18,18;0;10;15;25;3,318;Estado académico normal;SI;SI;NO
+18;M;11;17;0;0;10,31;12,82;14,47;4,55;13;11;22;46;3,080416667;Advertencia académica;SI;SI;NO
+29;M;11;21;0;0;8,25;23,08;21,05;15,15;8;123;17;148;3,400458015;Estado académico normal;SI;NO;NO
+21;M;10;17;0;0;10,31;20,51;13,16;13,64;0;121;0;121;3,965206612;Estado académico normal;SI;SI;NO
+21;M;9;22;0;0;5,15;23,08;18,42;18,18;16;113;12;141;3,556589147;Estado académico normal;SI;SI;NO
+17;F;8;14;0;0;5,15;25,64;13,16;7,58;3;21;3;27;3,181666667;Estado académico normal;NO;NO;NO
+20;M;8;12;0;0;7,22;15,38;11,84;9,09;13;96;15;124;3,712110092;Estado académico normal;SI;SI;NO
+22;M;8;13;0;0;5,15;15,38;19,74;4,55;8;120;18;146;3,72015625;Estado académico normal;SI;SI;NO
+28;M;8;16;0;0;8,25;5,13;15,79;15,15;0;9;0;9;4,78;Estado académico normal;SI;SI;SI
+18;M;8;14;0;0;3,09;17,95;21,05;6,06;0;48;0;48;4,427916667;Estado académico normal;SI;NO;NO
+21;M;7;18;0;0;5,15;12,82;19,74;10,61;5;115;6;126;3,6985;Estado académico normal;SI;NO;NO
+24;M;7;17;0;0;3,09;20,51;19,74;7,58;13;147;4;164;3,81575;Estado académico normal;NO;NO;NO
+18;M;7;17;0;0;10,31;5,13;9,21;18,18;3;8;25;36;3,713636364;Estado académico normal;NO;NO;SI
+21;M;7;18;0;0;7,22;12,82;21,05;6,06;17;84;27;128;3,414851485;Advertencia académica;SI;NO;NO
+19;F;6;10;0;0;0;17,95;14,47;6,06;0;90;0;90;4,385444444;Estado académico normal;SI;SI;NO
+20;M;6;21;0;0;6,19;7,69;15,79;3,03;20;57;16;93;3,302727273;Estado académico normal;SI;SI;NO
+19;M;6;18;0;0;11,34;0;14,47;12,12;9;1;6;16;2,247;Advertencia académica;SI;NO;SI
+23;F;6;15;0;0;6,19;12,82;15,79;6,06;6;77;12;95;3,625180723;Advertencia académica;SI;SI;NO
+19;F;5;8;0;0;6,19;2,56;11,84;3,03;12;51;9;72;3,508571429;Estado académico normal;SI;NO;NO
+18;M;5;11;0;0;6,19;5,13;11,84;6,06;3;39;6;48;3,606190476;Estado académico normal;NO;SI;NO
+18;M;4;5;0;0;4,12;10,26;1,32;6,06;0;15;0;15;4,731333333;Estado académico normal;SI;SI;NO
+17;M;4;10;0;0;1,03;20,51;6,58;6,06;0;15;0;15;3,455333333;Estado académico normal;NO;SI;NO
+18;F;4;15;0;0;4,12;7,69;14,47;7,58;0;45;0;45;4,101777778;Estado académico normal;SI;NO;NO
+20;M;4;14;0;0;4,12;15,38;6,58;10,61;10;6;0;16;2,3575;Advertencia académica;NO;SI;NO
+17;M;3;7;0;0;4,12;10,26;3,95;3,03;0;15;0;15;3,918;Estado académico normal;SI;SI;NO
+23;M;3;17;0;0;3,09;15,38;6,58;13,64;0;54;0;54;3,483333333;Estado académico normal;NO;SI;NO
+20;M;3;19;0;0;4,12;5,13;10,53;16,67;0;7;31;38;4,145714286;Estado académico normal;NO;NO;NO
+18;M;3;12;0;0;4,12;5,13;6,58;10,61;17;12;13;42;2,451724138;Segunda suspensión académica;SI;SI;NO
+19;M;3;6;0;0;2,06;0;3,95;10,61;8;19;3;30;2,933703704;Advertencia académica;NO;NO;NO
+22;F;3;14;0;0;3,09;5,13;11,84;9,09;24;68;21;113;3,231521739;Advertencia académica;SI;NO;NO
+19;M;3;15;0;0;5,15;12,82;13,16;1,52;0;57;4;61;4,274561404;Estado académico normal;SI;NO;NO
+18;M;3;8;0;0;1,03;2,56;9,21;7,58;6;6;3;15;2,716666667;Advertencia académica;SI;NO;SI
+19;M;3;5;0;0;0;0;0;0;0;49;0;49;4,391020408;Estado académico normal;SI;SI;NO
+20;M;3;16;0;0;6,19;10,26;10,53;6,06;16;11;17;44;2,79;Primer reingreso;SI;NO;NO
+22;M;2;11;0;0;4,12;2,56;3,95;10,61;6;7;3;16;2,739230769;Advertencia académica;NO;SI;SI
+18;M;2;14;0;0;4,12;5,13;13,16;3,03;0;15;0;15;4,008666667;Estado académico normal;SI;SI;NO
+18;M;2;9;0;0;4,12;2,56;6,58;4,55;6;11;12;29;3,111176471;Estado académico normal;NO;NO;NO
+18;M;2;12;0;0;4,12;5,13;2,63;12,12;12;4;15;31;1,625625;Suspensión académica;SI;NO;SI
+22;M;2;10;0;0;2,06;7,69;17,11;3,03;0;144;0;144;3,986597222;Estado académico normal;SI;SI;NO
+19;M;1;6;0;0;2,06;5,13;3,95;1,52;0;48;0;48;3,523125;Estado académico normal;NO;NO;NO
+19;M;1;5;0;0;7,22;12,82;17,11;0;0;15;0;15;3,866666667;Estado académico normal;NO;SI;NO
+17;M;1;12;0;0;6,19;2,56;6,58;3,03;8;0;7;15;1,895;Advertencia académica;NO;SI;NO
+17;M;1;12;0;0;3,09;7,69;5,26;6,06;6;7;0;13;2,988461538;Advertencia académica;NO;NO;SI
+17;M;1;12;0;1;3,09;5,13;2,63;10,61;1;7;0;8;3,50875;Estado académico normal;SI;SI;NO
+17;M;1;11;0;0;5,15;2,56;5,26;4,55;0;15;0;15;3,743333333;Estado académico normal;SI;SI;NO
+18;F;0;3;0;0;0;0;1,32;3,03;9;3;3;15;2,964166667;Advertencia académica;NO;SI;SI
+20;M;0;11;0;0;3,09;2,56;5,26;4,55;21;17;15;53;2,738157895;Primer reingreso;NO;SI;NO
+19;F;0;4;0;0;0;0;3,95;1,52;3;4;24;31;2,942857143;Estado académico normal;SI;SI;NO
+18;F;0;2;0;0;2,06;7,69;14,47;1,52;0;32;0;32;4,49375;Estado académico normal;NO;NO;NO
+19;M;0;5;0;0;1,03;0;2,63;3,03;12;21;21;54;3,17030303;Advertencia académica;NO;NO;NO
+20;M;0;10;0;0;4,12;2,56;2,63;4,55;13;3;9;25;2,39375;Advertencia académica;NO;NO;SI
+18;F;0;9;0;0;3,09;5,13;2,63;3,03;9;31;15;55;3,3105;Advertencia académica;NO;NO;NO
+19;M;0;8;0;0;2,06;0;6,58;1,52;21;27;6;54;3,153333333;Advertencia académica;SI;NO;NO
+21;F;16;23;0;0;19,59;23,08;19,74;18,18;6;46;43;95;3,367115385;Advertencia académica;SI;SI;SI
+21;F;14;17;0;0;14,43;33,33;18,42;6,06;8;103;18;129;3,789279279;Estado académico normal;SI;SI;NO
+24;M;13;29;0;0;17,53;20,51;19,74;22,73;14;32;39;85;2,980652174;Estado académico normal;SI;SI;NO
+22;M;13;19;0;0;10,31;25,64;19,74;15,15;20;133;6;159;3,647647059;Estado académico normal;SI;SI;NO
+23;M;12;16;0;0;12,37;25,64;18,42;6,06;44;68;76;188;2,789553571;Suspensión académica;SI;SI;SI
+19;M;12;9;0;0;9,28;23,08;15,79;4,55;7;86;0;93;4,009139785;Estado académico normal;SI;SI;NO
+20;M;11;23;0;0;10,31;23,08;18,42;18,18;6;21;18;45;3,445925926;Estado académico normal;SI;SI;NO
+18;F;11;22;0;0;17,53;15,38;21,05;7,58;9;37;0;46;3,423043478;Estado académico normal;SI;SI;NO
+19;M;10;20;0;0;11,34;12,82;17,11;16,67;0;27;3;30;3,52037037;Estado académico normal;NO;NO;NO
+19;F;10;12;0;0;13,4;7,69;17,11;4,55;18;60;15;93;3,428846154;Estado académico normal;SI;SI;NO
+18;M;8;16;0;0;10,31;15,38;17,11;4,55;14;59;3;76;3,397945205;Estado académico normal;SI;NO;NO
+20;M;8;12;0;0;8,25;15,38;14,47;4,55;0;119;0;119;4,426554622;Estado académico normal;SI;SI;NO
+19;M;8;10;0;0;2,06;12,82;22,37;3,03;5;76;12;93;3,814814815;Estado académico normal;SI;SI;NO
+19;F;8;14;0;0;9,28;17,95;14,47;4,55;14;58;16;88;3,555555556;Advertencia académica;NO;SI;NO
+18;M;7;20;0;0;10,31;17,95;13,16;10,61;0;16;0;16;4,56375;Estado académico normal;SI;SI;SI
+19;M;7;15;0;0;6,19;20,51;3,95;18,18;0;30;0;30;4,407;Estado académico normal;NO;NO;NO
+18;M;7;17;0;1;14,43;15,38;9,21;6,06;3;6;6;15;3,726666667;Estado académico normal;NO;NO;NO
+21;M;7;14;0;0;6,19;7,69;19,74;6,06;12;143;0;155;3,896129032;Estado académico normal;SI;SI;NO
+22;M;7;14;0;0;3,09;12,82;17,11;10,61;33;162;11;206;3,684;Estado académico normal;NO;SI;SI
+21;M;7;15;0;0;5,15;7,69;17,11;12,12;11;127;3;141;3,73557971;Estado académico normal;SI;SI;NO
+21;F;6;9;0;0;2,06;7,69;14,47;1,52;6;38;3;47;3,411363636;Advertencia académica;SI;SI;NO
+19;M;6;23;0;0;10,31;17,95;13,16;12,12;15;0;0;15;1,006666667;Advertencia académica;NO;NO;SI
+20;M;6;11;0;0;3,09;7,69;18,42;4,55;11;102;16;129;3,586902655;Estado académico normal;SI;SI;NO
+18;M;6;16;0;0;5,15;5,13;17,11;12,12;3;39;3;45;3,562142857;Estado académico normal;SI;SI;NO
+19;M;6;10;0;0;0;15,38;18,42;3,03;3;3;9;15;3,178333333;Estado académico normal;SI;SI;SI
+18;F;6;10;0;0;0;7,69;19,74;6,06;0;51;0;51;4,744313725;Estado académico normal;SI;SI;NO
+18;F;6;9;0;0;8,25;5,13;13,16;1,52;0;44;3;47;3,958409091;Estado académico normal;SI;NO;NO
+19;M;6;11;0;0;6,19;15,38;13,16;1,52;0;82;0;82;4,090243902;Estado académico normal;SI;NO;NO
+19;M;5;11;0;0;5,15;7,69;10,53;7,58;6;37;6;49;3,431627907;Advertencia académica;SI;NO;NO
+19;M;5;17;0;0;7,22;10,26;7,89;15,15;0;45;0;45;3,957333333;Estado académico normal;SI;NO;NO
+18;F;5;20;0;0;9,28;15,38;13,16;7,58;3;45;0;48;3,819375;Estado académico normal;SI;SI;NO
+21;M;5;14;0;0;5,15;12,82;14,47;10,61;3;113;7;123;3,952672414;Estado académico normal;SI;SI;NO
+18;M;5;19;0;0;7,22;5,13;19,74;7,58;0;48;0;48;4,011666667;Estado académico normal;SI;SI;NO
+18;M;5;17;0;0;9,28;17,95;3,95;12,12;6;33;8;47;4,124871795;Advertencia académica;SI;SI;NO
+19;M;5;15;0;0;4,12;12,82;13,16;9,09;0;119;0;119;4,519243697;Estado académico normal;SI;NO;NO
+19;M;5;10;0;0;4,12;10,26;9,21;7,58;9;41;0;50;3,4392;Estado académico normal;SI;NO;NO
+19;M;4;16;0;0;6,19;20,51;6,58;7,58;3;34;12;49;3,534594595;Estado académico normal;NO;NO;NO
+19;M;4;18;0;0;7,22;15,38;9,21;9,09;0;61;5;66;3,970655738;Estado académico normal;NO;NO;NO
+18;F;4;12;0;0;8,25;7,69;9,21;3,03;6;36;9;51;3,266190476;Estado académico normal;SI;NO;NO
+19;F;4;10;0;0;1,03;10,26;9,21;9,09;0;43;3;46;3,661860465;Estado académico normal;NO;NO;NO
+18;M;3;20;0;0;3,09;5,13;9,21;21,21;7;4;31;42;2,361818182;Advertencia académica;NO;NO;NO
+22;M;3;15;0;0;12,37;0;3,95;9,09;0;44;0;44;4,125;Estado académico normal;NO;NO;SI
+21;M;3;16;0;0;7,22;7,69;2,63;15,15;3;4;6;13;3,094285714;Estado académico normal;NO;NO;SI
+21;M;3;8;0;0;2,06;2,56;11,84;3,03;22;76;24;122;3,411428571;Estado académico normal;SI;NO;NO
+18;F;2;12;0;0;1,03;7,69;10,53;6,06;9;40;0;49;3,263673469;Advertencia académica;NO;SI;NO
+19;M;2;10;0;0;3,09;12,82;3,95;4,55;0;49;0;49;4,241836735;Estado académico normal;NO;NO;NO
+18;M;1;10;0;0;2,06;5,13;5,26;6,06;9;6;0;15;2,641333333;Advertencia académica;NO;SI;SI
+18;F;1;8;0;0;2,06;5,13;3,95;4,55;0;15;0;15;4,22;Estado académico normal;SI;NO;NO
+19;M;1;13;0;0;4,12;5,13;5,26;7,58;3;3;9;15;3,29;Estado académico normal;NO;SI;NO
+18;M;1;7;0;0;1,03;2,56;5,26;4,55;3;4;9;16;3,272857143;Estado académico normal;SI;SI;SI
+17;M;1;11;0;0;4,12;5,13;3,95;6,06;6;3;6;15;2,658888889;Advertencia académica;NO;SI;NO
+18;F;1;12;0;0;4,12;0;9,21;4,55;22;6;8;36;2,199285714;Suspensión académica;SI;SI;NO
+19;M;1;15;0;1;4,12;7,69;5,26;9,09;8;15;7;30;2,777826087;Advertencia académica;NO;SI;SI
+17;M;0;5;0;0;0;0;5,26;1,52;3;3;9;15;3,018333333;Estado académico normal;NO;SI;NO
+20;M;0;7;0;0;0;5,13;3,95;3,03;0;54;0;54;4,035925926;Estado académico normal;NO;SI;NO
+20;F;8;22;0;0;11,34;7,69;17,11;16,67;15;82;11;108;3,525979381;Estado académico normal;NO;SI;NO
+21;M;20;34;0;0;19,59;35,9;31,58;25,76;9;11;58;78;2,3975;Suspensión académica;SI;SI;NO
+17;F;13;25;0;0;19,59;28,21;18,42;10,61;3;10;3;16;3,490769231;Estado académico normal;NO;SI;NO
+19;M;10;18;0;0;14,43;17,95;13,16;10,61;12;13;3;28;2,9808;Suspensión académica;SI;NO;SI
+18;M;10;17;0;0;13,4;15,38;7,89;18,18;16;0;0;16;1,093125;Advertencia académica;NO;SI;SI
+19;F;10;19;0;0;6,19;17,95;19,74;16,67;3;78;6;87;3,957777778;Estado académico normal;SI;SI;NO
+19;M;10;28;0;0;20,62;10,26;15,79;18,18;15;23;25;63;2,813421053;Primer reingreso;SI;SI;NO
+18;F;10;13;0;0;9,28;12,82;22,37;3,03;0;55;0;55;4,020909091;Estado académico normal;SI;SI;NO
+18;M;9;17;0;0;10,31;28,21;11,84;7,58;15;3;12;30;2,353333333;Suspensión académica;SI;SI;SI
+22;M;9;15;0;0;7,22;7,69;21,05;10,61;6;47;18;71;3,811320755;Estado académico normal;SI;NO;NO
+19;F;9;23;0;0;10,31;12,82;17,11;19,7;12;109;10;131;3,792975207;Estado académico normal;SI;NO;NO
+18;M;7;15;0;0;10,31;12,82;7,89;12,12;7;41;3;51;3,515625;Estado académico normal;NO;SI;NO
+18;M;7;22;0;0;7,22;12,82;18,42;15,15;14;34;39;87;3,239166667;Suspensión académica;SI;SI;NO
+21;M;7;13;0;0;1,03;28,21;11,84;9,09;0;116;2;118;4,274482759;Estado académico normal;SI;NO;NO
+18;M;7;22;0;0;13,4;10,26;13,16;13,64;0;13;3;16;3,762307692;Estado académico normal;SI;SI;NO
+18;M;7;17;0;0;10,31;12,82;14,47;7,58;0;52;0;52;3,918846154;Estado académico normal;SI;NO;NO
+18;F;6;15;0;0;9,28;10,26;15,79;3,03;14;39;12;65;3,51;Advertencia académica;SI;SI;SI
+20;M;6;9;0;0;3,09;7,69;14,47;6,06;9;116;8;133;3,49896;Estado académico normal;SI;SI;NO
+19;M;6;13;0;0;10,31;15,38;5,26;7,58;16;41;6;63;3,356666667;Advertencia académica;SI;NO;NO
+18;F;6;15;0;0;4,12;30,77;5,26;10,61;0;33;0;33;4,375151515;Estado académico normal;SI;NO;NO
+17;F;6;13;0;0;2,06;12,82;21,05;3,03;0;53;0;53;4,600943396;Estado académico normal;SI;SI;NO
+18;M;6;11;0;0;4,12;20,51;5,26;10,61;0;57;0;57;4,55122807;Estado académico normal;SI;NO;NO
+18;F;6;15;0;0;6,19;10,26;17,11;6,06;9;51;3;63;3,449;Estado académico normal;SI;NO;NO
+19;F;6;17;0;0;5,15;7,69;21,05;7,58;3;83;0;86;3,701395349;Estado académico normal;SI;SI;NO
+17;F;5;9;0;0;6,19;7,69;10,53;3,03;16;0;0;16;2,250625;Advertencia académica;SI;SI;SI
+18;F;5;10;0;0;2,06;7,69;17,11;3,03;0;16;0;16;4,25;Estado académico normal;SI;NO;NO
+19;M;5;13;0;0;3,09;12,82;15,79;4,55;12;64;6;82;3,432763158;Estado académico normal;SI;SI;NO
+19;M;5;17;0;0;7,22;5,13;13,16;12,12;0;39;3;42;3,883076923;Estado académico normal;SI;SI;NO
+18;M;5;16;0;0;8,25;2,56;10,53;13,64;3;13;0;16;3,545625;Estado académico normal;SI;SI;NO
+18;F;5;11;0;0;2,06;7,69;13,16;9,09;0;4;0;4;4,2975;Estado académico normal;NO;NO;NO
+19;F;5;13;0;0;7,22;12,82;13,16;1,52;0;85;0;85;4,121647059;Estado académico normal;SI;NO;NO
+20;F;4;15;0;0;4,12;12,82;13,16;6,06;0;147;0;147;4,091836735;Estado académico normal;SI;NO;NO
+18;M;4;11;0;0;2,06;15,38;6,58;9,09;0;12;18;30;3,855;Estado académico normal;SI;NO;NO
+21;F;4;11;0;0;6,19;2,56;10,53;6,06;0;130;6;136;4,151153846;Estado académico normal;SI;NO;NO
+17;F;4;10;0;0;5,15;7,69;10,53;3,03;0;16;0;16;4,6675;Estado académico normal;SI;SI;NO
+19;F;4;9;0;0;3,09;5,13;13,16;3,03;3;30;0;33;3,397878788;Estado académico normal;SI;NO;NO
+20;F;4;14;0;0;8,25;10,26;5,26;9,09;0;50;0;50;4,2016;Estado académico normal;SI;NO;NO
+18;M;4;10;0;0;2,06;15,38;9,21;4,55;3;19;3;25;3,773181818;Estado académico normal;SI;SI;NO
+20;M;4;10;0;0;6,19;12,82;3,95;6,06;6;4;6;16;3,041;Advertencia académica;NO;SI;NO
+18;F;4;17;0;0;7,22;7,69;14,47;6,06;0;53;0;53;4,238679245;Estado académico normal;SI;NO;NO
+18;F;4;9;0;0;0;7,69;15,79;3,03;0;25;0;25;4,87;Estado académico normal;SI;SI;NO
+18;M;4;10;0;0;3,09;7,69;13,16;3,03;12;14;9;35;2,686538462;Suspensión académica;SI;NO;SI
+21;M;4;12;0;0;0;2,56;11,84;3,03;9;45;0;54;3,397222222;Estado académico normal;SI;SI;NO
+18;F;3;17;0;0;6,19;15,38;10,53;4,55;0;16;0;16;4,4;Estado académico normal;NO;SI;NO
+17;M;3;6;0;0;7,22;12,82;17,11;0;0;16;0;16;4,809375;Estado académico normal;SI;SI;NO
+18;M;3;7;0;0;0;0;0;0;0;52;0;52;4,355192308;Estado académico normal;SI;NO;NO
+18;F;3;13;0;0;6,19;7,69;10,53;3,03;0;45;3;48;3,982;Estado académico normal;SI;NO;NO
+19;F;3;9;0;0;6,19;15,38;1,32;3,03;1;10;16;27;3,467272727;Estado académico normal;SI;NO;SI
+19;M;3;11;0;0;3,09;12,82;10,53;1,52;0;50;0;50;3,7994;Estado académico normal;SI;NO;NO
+17;M;3;14;0;0;2,06;12,82;11,84;6,06;0;16;0;16;3,89875;Estado académico normal;SI;NO;NO
+18;M;2;12;0;0;4,12;0;7,89;9,09;3;16;0;19;3,431578947;Estado académico normal;NO;NO;SI
+19;M;2;16;0;0;4,12;2,56;13,16;7,58;6;32;8;46;3,448947368;Estado académico normal;SI;NO;NO
+17;F;2;10;0;0;3,09;5,13;10,53;1,52;0;16;0;16;4,166875;Estado académico normal;SI;NO;SI
+18;F;2;15;0;0;4,12;10,26;6,58;9,09;15;32;6;53;3,204893617;Estado académico normal;SI;NO;NO
+19;F;2;11;0;0;3,09;2,56;7,89;7,58;0;16;0;16;4,455625;Estado académico normal;SI;SI;NO
+18;F;2;5;0;0;4,12;0;3,95;3,03;0;41;0;41;4,309756098;Estado académico normal;NO;NO;NO
+19;M;1;14;0;0;9,28;5,13;5,26;1,52;0;16;0;16;4,251875;Estado académico normal;NO;NO;SI
+18;M;1;10;0;0;3,09;0;6,58;6,06;0;33;0;33;3,848787879;Estado académico normal;NO;NO;NO
+19;F;1;3;0;0;0;2,56;3,95;1,52;0;53;0;53;4,096792453;Estado académico normal;NO;NO;NO
+18;M;1;4;0;0;1,03;2,56;3,95;1,52;0;21;3;24;4,045238095;Estado académico normal;SI;SI;NO
+19;M;1;8;0;0;8,25;10,26;14,47;4,55;0;58;0;58;4,686206897;Estado académico normal;SI;NO;NO
+18;M;1;12;0;0;2,06;10,26;6,58;4,55;0;46;9;55;3,588695652;Estado académico normal;SI;NO;NO
+18;M;1;6;0;0;2,06;0;2,63;6,06;0;3;0;3;3,97;Estado académico normal;SI;NO;NO
+18;M;0;6;0;0;3,09;2,56;1,32;1,52;0;18;0;18;4,800555556;Estado académico normal;SI;SI;NO
+19;F;0;9;0;0;3,09;0;1,32;7,58;12;37;6;55;3,338367347;Estado académico normal;SI;NO;NO
+20;F;0;2;0;0;0;0;1,32;1,52;9;7;0;16;2,890625;Advertencia académica;SI;SI;SI
+18;F;0;5;0;0;1,03;0;2,63;3,03;0;56;0;56;3,909464286;Estado académico normal;NO;NO;NO
+20;M;20;26;0;0;12,37;46,15;26,32;24,24;29;68;28;125;3,177731959;Segunda suspensión académica;SI;SI;NO
+18;M;18;27;0;0;24,74;28,21;19,74;19,7;0;17;0;17;3,882941176;Estado académico normal;SI;SI;NO
+21;M;17;25;0;0;7,22;28,21;17,11;12,12;18;25;17;60;2,416976744;Advertencia académica;SI;SI;NO
+21;F;17;26;0;0;14,43;23,08;28,95;22,73;6;71;17;94;3,758701299;Estado académico normal;SI;NO;NO
+19;F;12;21;0;0;11,34;12,82;23,68;16,67;14;33;26;73;3,253617021;Advertencia académica;SI;SI;NO
+20;F;12;20;0;0;13,4;23,08;17,11;13,64;9;92;21;122;3,772970297;Estado académico normal;SI;SI;NO
+19;F;12;20;0;0;11,34;20,51;17,11;18,18;3;40;6;49;3,63744186;Estado académico normal;SI;NO;NO
+18;F;12;11;0;0;6,19;23,08;25;1,52;5;0;39;44;1,678;Advertencia académica;SI;SI;NO
+21;M;11;9;0;0;3,09;28,21;19,74;3,03;0;119;3;122;4,065546218;Estado académico normal;SI;SI;NO
+21;F;11;10;0;0;4,12;12,82;26,32;4,55;0;132;0;132;4,035833333;Estado académico normal;SI;SI;NO
+20;F;11;21;0;0;8,25;33,33;19,74;10,61;3;111;3;117;4,229210526;Estado académico normal;SI;NO;NO
+21;M;10;16;0;0;5,15;12,82;26,32;9,09;2;157;1;160;4,049308176;Estado académico normal;SI;SI;NO
+18;M;10;17;0;0;7,22;7,69;15,79;3,03;3;42;9;54;3,726;Estado académico normal;SI;SI;NO
+20;M;10;15;0;0;9,28;15,38;14,47;13,64;24;65;42;131;3,352808989;Advertencia académica;SI;SI;SI
+20;M;10;9;0;0;7,22;10,26;15,79;9,09;6;106;9;121;3,730892857;Estado académico normal;SI;NO;NO
+20;F;9;16;0;0;8,25;15,38;13,16;15,15;35;58;24;117;2,999892473;Estado académico normal;SI;SI;NO
+20;M;9;16;0;0;9,28;15,38;14,47;12,12;15;66;33;114;3,369506173;Estado académico normal;SI;SI;NO
+22;F;9;19;0;0;6,19;15,38;18,42;16,67;13;151;27;191;3,59347561;Estado académico normal;SI;SI;NO
+21;M;9;12;0;0;4,12;7,69;27,63;3,03;8;153;6;167;3,957515528;Estado académico normal;SI;NO;NO
+20;M;9;16;0;0;5,15;12,82;23,68;9,09;18;55;14;87;3,374657534;Estado académico normal;SI;SI;NO
+21;M;9;17;0;0;6,19;23,08;18,42;9,09;6;113;6;125;3,836470588;Estado académico normal;SI;SI;NO
+19;M;8;29;0;0;10,31;30,77;15,79;16,67;8;17;19;44;3,1868;Estado académico normal;SI;NO;NO
+18;M;8;9;0;0;2,06;10,26;18,42;7,58;3;35;6;44;3,553947368;Estado académico normal;SI;SI;NO
+21;M;8;14;0;0;4,12;7,69;27,63;3,03;0;151;3;154;4,234503311;Estado académico normal;SI;SI;NO
+22;M;7;13;0;0;3,09;15,38;18,42;6,06;9;124;11;144;3,731428571;Estado académico normal;SI;SI;NO
+20;M;7;11;0;0;6,19;10,26;18,42;1,52;0;82;0;82;4,266585366;Estado académico normal;SI;SI;NO
+20;F;7;11;0;0;7,22;10,26;13,16;6,06;0;83;0;83;4,205542169;Estado académico normal;SI;NO;NO
+19;M;7;16;0;0;8,25;15,38;10,53;12,12;0;64;0;64;3,97046875;Estado académico normal;SI;NO;NO
+21;F;7;17;0;0;4,12;12,82;19,74;10,61;3;136;6;145;3,761798561;Estado académico normal;SI;SI;NO
+20;F;7;12;0;0;7,22;10,26;13,16;7,58;0;50;0;50;4,0676;Estado académico normal;SI;NO;NO
+20;F;7;11;0;0;6,19;10,26;11,84;9,09;12;12;6;30;3,1675;Estado académico normal;SI;NO;NO
+22;M;7;19;0;0;7,22;10,26;15,79;15,15;9;58;45;112;3,51119403;Estado académico normal;SI;NO;NO
+18;F;7;16;0;0;5,15;10,26;21,05;7,58;6;40;3;49;3,590652174;Estado académico normal;SI;SI;NO
+18;M;7;12;0;0;5,15;10,26;17,11;6,06;3;43;3;49;3,557173913;Estado académico normal;SI;NO;NO
+21;F;7;12;0;0;2,06;17,95;15,79;7,58;0;139;2;141;4,013021583;Estado académico normal;SI;SI;NO
+18;F;6;13;0;0;2,06;17,95;5,26;18,18;7;10;3;20;3,025882353;Estado académico normal;SI;SI;NO
+18;M;6;13;0;0;5,15;10,26;13,16;9,09;3;15;12;30;3,593888889;Estado académico normal;SI;SI;NO
+21;F;6;15;0;0;6,19;23,08;10,53;6,06;0;104;0;104;3,770576923;Estado académico normal;SI;NO;NO
+20;M;6;20;0;0;6,19;23,08;9,21;15,15;0;43;9;52;3,683023256;Estado académico normal;NO;NO;NO
+19;M;6;16;0;0;5,15;15,38;15,79;7,58;0;50;0;50;3,7672;Estado académico normal;SI;SI;NO
+19;F;6;16;0;0;1,03;23,08;15,79;9,09;0;46;15;61;3,620652174;Estado académico normal;SI;SI;NO
+21;F;5;14;0;0;6,19;12,82;14,47;3,03;0;151;10;161;4,121258278;Estado académico normal;SI;SI;NO
+18;M;5;15;0;0;2,06;7,69;17,11;3,03;0;50;0;50;3,921;Estado académico normal;SI;SI;NO
+20;M;5;14;0;0;4,12;5,13;17,11;7,58;7;41;50;98;3,544166667;Suspensión académica;SI;SI;NO
+25;M;5;9;0;0;4,12;5,13;14,47;3,03;3;10;17;30;3,188461538;Estado académico normal;SI;SI;NO
+18;F;5;13;0;0;1,03;2,56;17,11;12,12;0;50;0;50;4,0364;Estado académico normal;SI;SI;NO
+18;M;5;12;0;0;4,12;10,26;17,11;1,52;0;17;0;17;3,873529412;Estado académico normal;SI;SI;NO
+19;F;4;20;0;0;13,4;12,82;7,89;6,06;3;62;0;65;3,741846154;Estado académico normal;NO;NO;NO
+17;M;4;7;0;0;2,06;0;9,21;9,09;5;6;6;17;3,181818182;Estado académico normal;NO;SI;NO
+19;F;4;20;0;0;4,12;12,82;17,11;9,09;3;47;0;50;3,6448;Estado académico normal;SI;SI;NO
+18;M;4;9;0;0;6,19;0;5,26;10,61;0;50;0;50;3,7248;Estado académico normal;SI;NO;NO
+18;F;4;13;0;0;0;5,13;17,11;9,09;0;48;3;51;3,546458333;Estado académico normal;SI;SI;NO
+18;M;4;13;0;0;6,19;7,69;13,16;3,03;2;11;20;33;3,197692308;Estado académico normal;SI;NO;NO
+19;F;4;15;0;0;4,12;12,82;7,89;12,12;0;50;0;50;3,6888;Estado académico normal;NO;NO;NO
+18;F;4;6;0;0;5,15;0;9,21;3,03;3;11;3;17;3,323571429;Estado académico normal;SI;SI;NO
+19;M;3;14;0;0;0;10,26;2,63;10,61;19;29;10;58;3,142291667;Estado académico normal;NO;SI;NO
+18;F;3;12;0;0;4,12;12,82;6,58;6,06;6;8;3;17;3,285714286;Estado académico normal;SI;NO;NO
+18;M;3;14;0;0;4,12;10,26;13,16;3,03;0;50;0;50;3,7358;Estado académico normal;SI;NO;NO
+19;F;3;7;0;0;4,12;7,69;5,26;3,03;6;42;6;54;3,50625;Estado académico normal;NO;NO;NO
+18;M;3;13;0;0;10,31;10,26;2,63;4,55;4;19;6;29;3,352173913;Advertencia académica;SI;SI;NO
+18;F;3;4;0;0;2,06;5,13;5,26;3,03;9;38;3;50;3,312340426;Advertencia académica;SI;NO;NO
+19;M;2;21;0;0;7,22;15,38;5,26;12,12;16;40;6;62;3,311607143;Advertencia académica;NO;SI;NO
+21;F;2;7;0;0;4,12;0;6,58;3,03;0;112;0;112;4,212767857;Estado académico normal;NO;SI;NO
+20;F;2;13;0;0;3,09;7,69;5,26;10,61;0;62;5;67;3,895;Estado académico normal;NO;SI;NO
+20;M;2;8;0;0;2,06;0;6,58;7,58;6;82;6;94;3,592613636;Estado académico normal;SI;SI;NO
+22;M;2;14;0;0;0;10,26;10,53;9,09;12;31;11;54;3,026976744;Advertencia académica;NO;NO;NO
+17;M;2;12;0;0;1,03;15,38;7,89;4,55;2;0;13;15;0,91;Advertencia académica;NO;SI;SI
+19;F;2;7;0;0;4,12;0;2,63;7,58;3;30;0;33;3,470909091;Estado académico normal;NO;NO;NO
+18;M;2;7;0;0;3,09;5,13;6,58;1,52;1;25;0;26;3,898076923;Estado académico normal;SI;SI;NO
+18;M;2;8;0;0;2,06;2,56;7,89;4,55;0;50;0;50;3,845;Estado académico normal;SI;NO;NO
+18;F;2;5;0;0;2,06;2,56;6,58;1,52;3;34;8;45;3,488918919;Estado académico normal;SI;NO;NO
+19;M;2;18;0;0;4,12;7,69;10,53;10,61;3;32;15;50;3,474;Estado académico normal;NO;NO;NO
+18;F;2;9;0;0;3,09;5,13;9,21;1,52;0;55;3;58;3,972727273;Estado académico normal;SI;NO;NO
+17;F;2;15;0;0;5,15;5,13;7,89;9,09;0;14;3;17;4,165;Estado académico normal;NO;SI;NO
+19;F;2;14;0;0;2,06;12,82;5,26;10,61;0;48;3;51;3,614791667;Estado académico normal;SI;NO;NO
+17;M;2;10;0;0;2,06;5,13;9,21;4,55;0;17;0;17;3,688235294;Estado académico normal;SI;NO;NO
+18;F;2;17;0;0;3,09;17,95;5,26;10,61;3;14;0;17;3,280588235;Estado académico normal;SI;SI;NO
+20;M;1;12;0;0;2,06;5,13;3,95;10,61;1;37;14;52;3,648421053;Estado académico normal;SI;SI;NO
+18;M;1;7;0;0;1,03;7,69;2,63;4,55;0;40;3;43;3,56175;Estado académico normal;SI;NO;NO
+21;F;1;13;0;0;2,06;2,56;11,84;4,55;0;139;0;139;3,808776978;Estado académico normal;NO;SI;NO
+19;F;0;5;0;0;0;2,56;1,32;4,55;3;48;7;58;3,687058824;Estado académico normal;NO;SI;NO
+18;F;0;13;0;0;3,09;0;1,32;13,64;0;19;0;19;3,524210526;Estado académico normal;SI;SI;NO
+18;F;0;7;0;0;0;0;1,32;9,09;0;14;3;17;3,663571429;Estado académico normal;SI;SI;NO
+18;M;0;6;0;0;0;0;3,95;4,55;0;17;0;17;3,792352941;Estado académico normal;NO;SI;NO
+19;F;0;5;0;0;1,03;2,56;1,32;3,03;3;42;3;48;3,618222222;Estado académico normal;NO;NO;NO
+17;F;0;6;0;0;7,22;12,82;17,11;0;0;17;0;17;3,555294118;Estado académico normal;NO;SI;NO
+20;M;0;5;0;0;3,09;0;1,32;1,52;6;37;6;49;3,545813953;Estado académico normal;SI;NO;NO
+19;M;0;14;0;0;2,06;0;9,21;7,58;0;14;3;17;3,247857143;Estado académico normal;NO;SI;NO
+18;F;0;6;0;0;0;2,56;5,26;1,52;0;50;0;50;4,069;Estado académico normal;SI;NO;NO
+21;M;12;22;0;0;8,25;25,64;22,37;16,67;3;44;16;63;3,791276596;Estado académico normal;SI;SI;NO
+19;M;11;25;0;0;10,31;20,51;23,68;16,67;0;11;15;26;3,626363636;Estado académico normal;SI;SI;SI
+19;M;11;23;0;0;15,46;17,95;18,42;13,64;17;39;18;74;3,311964286;Advertencia académica;SI;SI;NO
+19;M;10;21;0;0;11,34;15,38;6,58;28,79;6;41;3;50;3,54787234;Estado académico normal;NO;SI;NO
+19;M;10;15;0;0;7,22;17,95;21,05;7,58;0;27;9;36;3,718518519;Estado académico normal;SI;SI;NO
+21;M;10;21;0;0;7,22;30,77;15,79;15,15;16;103;29;148;3,591176471;Estado académico normal;SI;SI;NO
+20;M;10;16;0;0;0;28,21;17,11;18,18;21;39;16;76;3,139833333;Primer reingreso;SI;SI;NO
+21;M;9;15;0;0;5,15;10,26;17,11;7,58;21;81;20;122;3,37745098;Advertencia académica;SI;SI;NO
+17;M;8;20;0;0;5,15;12,82;11,84;16,67;23;0;7;30;0,935217391;Suspensión académica;SI;SI;SI
+19;M;8;20;0;0;7,22;30,77;17,11;6,06;12;44;15;71;3,343571429;Advertencia académica;SI;SI;NO
+18;M;8;16;0;0;7,22;10,26;18,42;10,61;9;27;8;44;3,386944444;Estado académico normal;SI;SI;NO
+18;M;7;22;0;0;15,46;12,82;10,53;12,12;3;13;0;16;3,43125;Estado académico normal;SI;SI;NO
+20;M;7;17;0;0;7,22;15,38;17,11;7,58;17;20;12;49;2,790810811;Suspensión académica;SI;SI;SI
+18;F;7;17;0;0;7,22;23,08;14,47;6,06;3;46;0;49;3,982653061;Estado académico normal;SI;SI;NO
+20;M;7;20;0;0;8,25;17,95;15,79;10,61;2;12;15;29;3,423571429;Estado académico normal;SI;SI;NO
+20;M;6;8;0;0;8,25;10,26;10,53;4,55;3;38;6;47;3,810731707;Estado académico normal;SI;SI;NO
+19;M;6;12;0;0;5,15;7,69;10,53;12,12;6;42;6;54;3,533958333;Estado académico normal;NO;SI;NO
+22;M;6;31;0;0;3,09;7,69;17,11;9,09;13;52;59;124;3,370307692;Estado académico normal;SI;NO;NO
+19;M;6;20;0;0;7,22;23,08;7,89;15,15;1;4;11;16;3,444;Estado académico normal;NO;NO;SI
+21;M;6;14;0;0;4,12;17,95;11,84;9,09;9;131;3;143;3,947142857;Estado académico normal;SI;SI;NO
+19;F;6;17;0;0;3,09;15,38;18,42;9,09;0;50;3;53;3,9188;Estado académico normal;SI;SI;NO
+25;F;6;12;0;0;2,06;7,69;14,47;1,52;48;34;31;113;2,470365854;Advertencia académica;NO;NO;NO
+19;M;6;18;0;0;6,19;5,13;18,42;12,12;15;43;19;77;3,27362069;Advertencia académica;SI;SI;NO
+17;M;5;20;0;0;10,31;10,26;2,63;21,21;3;7;6;16;3,465;Estado académico normal;NO;SI;NO
+20;M;5;22;0;0;8,25;10,26;14,47;10,61;0;41;12;53;3,689268293;Estado académico normal;SI;SI;NO
+20;M;5;9;0;0;2,06;5,13;15,79;4,55;0;50;27;77;3,7362;Estado académico normal;SI;SI;NO
+19;M;5;13;0;0;10,31;12,82;6,58;4,55;0;49;0;49;3,807959184;Estado académico normal;NO;NO;NO
+22;M;5;22;0;0;6,19;17,95;14,47;12,12;5;115;25;145;3,74;Estado académico normal;SI;SI;NO
+19;M;5;16;0;0;7,22;5,13;14,47;7,58;3;57;10;70;3,752166667;Estado académico normal;SI;SI;NO
+20;M;5;13;0;0;5,15;12,82;13,16;4,55;3;7;6;16;3,727;Estado académico normal;SI;SI;NO
+17;M;5;19;0;0;7,22;20,51;7,89;12,12;3;7;6;16;3,491;Estado académico normal;SI;SI;NO
+18;M;5;22;0;0;10,31;12,82;10,53;13,64;12;15;25;52;3,007037037;Advertencia académica;SI;SI;SI
+19;M;4;17;0;0;9,28;10,26;9,21;7,58;0;46;3;49;3,551956522;Estado académico normal;SI;NO;NO
+20;M;4;25;0;0;7,22;10,26;14,47;16,67;5;58;3;66;3,737460317;Estado académico normal;SI;NO;NO
+20;M;4;10;0;0;5,15;5,13;3,95;12,12;6;7;3;16;3,272307692;Estado académico normal;NO;SI;NO
+20;M;4;13;0;0;6,19;12,82;3,95;10,61;0;48;3;51;3,849375;Estado académico normal;NO;SI;NO
+18;M;4;21;0;0;10,31;7,69;10,53;12,12;15;8;10;33;2,392608696;Advertencia académica;SI;SI;SI
+19;F;4;19;0;0;7,22;7,69;13,16;10,61;0;50;2;52;3,8046;Estado académico normal;SI;SI;NO
+18;F;4;15;0;0;4,12;5,13;17,11;6,06;0;49;0;49;3,699387755;Estado académico normal;SI;SI;NO
+19;M;4;18;0;0;8,25;10,26;10,53;9,09;12;2;2;16;0,657857143;Advertencia académica;SI;NO;SI
+17;M;4;13;0;0;4,12;17,95;5,26;9,09;0;7;9;16;3,788571429;Estado académico normal;NO;SI;NO
+20;M;4;15;0;0;4,12;5,13;14,47;9,09;18;69;15;102;3,264367816;Estado académico normal;SI;SI;NO
+19;M;4;17;0;0;6,19;15,38;3,95;15,15;3;36;9;48;3,593076923;Estado académico normal;NO;NO;NO
+19;M;4;12;0;0;3,09;5,13;15,79;4,55;3;82;0;85;3,787529412;Estado académico normal;SI;SI;NO
+18;M;4;15;0;0;1,03;2,56;15,79;13,64;3;41;3;47;3,574090909;Estado académico normal;SI;NO;NO
+17;M;4;15;0;0;9,28;5,13;6,58;10,61;0;16;0;16;4,091875;Estado académico normal;SI;SI;NO
+17;M;4;16;0;0;9,28;10,26;6,58;9,09;0;10;6;16;3,833;Estado académico normal;NO;SI;NO
+17;M;3;8;0;0;2,06;15,38;5,26;3,03;8;13;3;24;3,135238095;Advertencia académica;SI;SI;NO
+17;M;3;8;0;0;3,09;10,26;6,58;3,03;3;0;0;3;2,586666667;Estado académico normal;SI;NO;NO
+19;M;3;7;0;0;5,15;10,26;3,95;1,52;0;16;0;16;3,89875;Estado académico normal;NO;SI;NO
+19;M;3;14;0;0;7,22;7,69;6,58;7,58;12;19;9;40;2,889354839;Advertencia académica;NO;SI;NO
+18;M;3;14;0;0;12,37;0;3,95;7,58;3;42;3;48;3,816222222;Estado académico normal;SI;SI;SI
+18;M;3;11;0;0;4,12;7,69;11,84;1,52;1;22;1;24;3,907391304;Estado académico normal;SI;SI;NO
+21;M;3;11;0;0;0;12,82;11,84;4,55;6;93;19;118;3,572222222;Estado académico normal;SI;SI;NO
+19;M;2;10;0;0;4,12;2,56;6,58;6,06;9;10;7;26;2,922105263;Advertencia académica;SI;NO;SI
+19;M;2;13;0;0;2,06;15,38;5,26;7,58;3;36;6;45;3,7;Estado académico normal;NO;SI;NO
+17;M;2;16;0;0;6,19;7,69;6,58;9,09;0;16;0;16;3,726875;Estado académico normal;SI;SI;NO
+18;M;2;16;0;0;6,19;12,82;6,58;6,06;0;44;0;44;3,793863636;Estado académico normal;NO;NO;NO

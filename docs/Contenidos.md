@@ -54,7 +54,7 @@ TODO
   
 ### Trabajo en clase, Tarea No. 2, 5%
 
-TODO
+Trabajo de análisis de ganancia de información con Entropía. 
 
 # Unidad 3 — Modelado estadístico, información y generalización
 
